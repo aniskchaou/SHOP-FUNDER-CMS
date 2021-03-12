@@ -1,0 +1,4825 @@
+# Copyright (C) 2021 MadrasThemes
+# This file is distributed under the same license as the Electro Extensions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Electro Extensions 3.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://themeforest.net/item/electro-electronics-store-woocommerce-theme/157"
+"20624/support/\n"
+"POT-Creation-Date: 2021-03-02 11:35:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Electro POT <support@transvelo.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: electro-extensions.php:185 electro-extensions.php:194
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: modules/elementor/elementor.php:87 modules/js_composer/config/map.php:74
+#: modules/js_composer/config/map.php:109
+#: modules/js_composer/config/map.php:168
+#: modules/js_composer/config/map.php:411
+#: modules/js_composer/config/map.php:482
+#: modules/js_composer/config/map.php:547
+#: modules/js_composer/config/map.php:716
+#: modules/js_composer/config/map.php:1050
+#: modules/js_composer/config/map.php:1207
+#: modules/js_composer/config/map.php:1432
+#: modules/js_composer/config/map.php:1666
+#: modules/js_composer/config/map.php:1857
+#: modules/js_composer/config/map.php:2070
+#: modules/js_composer/config/map.php:2160
+#: modules/js_composer/config/map.php:2230
+#: modules/js_composer/config/map.php:2318
+#: modules/js_composer/config/map.php:2455
+#: modules/js_composer/config/map.php:2690
+#: modules/js_composer/config/map.php:2767
+#: modules/js_composer/config/map.php:2907
+#: modules/js_composer/config/map.php:3031
+#: modules/js_composer/config/map.php:3149
+#: modules/js_composer/config/map.php:3308
+#: modules/js_composer/config/map.php:3467
+#: modules/js_composer/config/map.php:3724
+#: modules/js_composer/config/map.php:3980
+#: modules/js_composer/config/map.php:4042
+#: modules/js_composer/config/map.php:4201
+#: modules/js_composer/config/map.php:4437
+#: modules/js_composer/config/map.php:4643
+#: modules/js_composer/config/map.php:4827
+#: modules/js_composer/config/map.php:5039
+#: modules/js_composer/config/map.php:5226
+#: modules/js_composer/config/map.php:5320
+#: modules/js_composer/config/map.php:5347
+#: modules/js_composer/config/map.php:5391
+#: modules/js_composer/config/map.php:5652
+#: modules/js_composer/config/map.php:5870
+#: modules/js_composer/config/map.php:5936
+#: modules/js_composer/config/map.php:6082
+#: modules/js_composer/config/map.php:6122
+#: modules/js_composer/config/map.php:6180
+#: modules/js_composer/config/map.php:6293
+#: modules/js_composer/config/map.php:6434
+#: modules/js_composer/config/map.php:6511
+#: modules/js_composer/config/map.php:6576
+#: modules/js_composer/config/map.php:6653
+#: modules/js_composer/config/map.php:6668
+msgid "Electro Elements"
+msgstr ""
+
+#: modules/elementor/widgets/ad-block.php:43
+#: modules/js_composer/config/map.php:71
+msgid "Ad Block"
+msgstr ""
+
+#: modules/elementor/widgets/ad-block.php:87
+#: modules/elementor/widgets/ads-with-banner.php:87
+#: modules/elementor/widgets/brands-carousel.php:87
+#: modules/elementor/widgets/category-icons-carousel.php:87
+#: modules/elementor/widgets/deal-and-product-tabs.php:87
+#: modules/elementor/widgets/deal-products-block.php:87
+#: modules/elementor/widgets/deals-products-carousel.php:86
+#: modules/elementor/widgets/feature-block.php:87
+#: modules/elementor/widgets/jumbotron.php:87
+#: modules/elementor/widgets/mobile-product-deals-block.php:87
+#: modules/elementor/widgets/nav-menu.php:97
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:87
+#: modules/elementor/widgets/product-categories-block.php:87
+#: modules/elementor/widgets/product-categories-list-with-header.php:87
+#: modules/elementor/widgets/product-categories-list.php:87
+#: modules/elementor/widgets/product-categories-menu-list.php:87
+#: modules/elementor/widgets/product-list-categories.php:87
+#: modules/elementor/widgets/product-onsale-carousel.php:87
+#: modules/elementor/widgets/product-onsale.php:87
+#: modules/elementor/widgets/products-2-1-2-block.php:87
+#: modules/elementor/widgets/products-6-1-block.php:87
+#: modules/elementor/widgets/products-6-1-with-categories.php:87
+#: modules/elementor/widgets/products-cards-carousel.php:87
+#: modules/elementor/widgets/products-carousel-1.php:87
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:87
+#: modules/elementor/widgets/products-carousel-category-with-image.php:87
+#: modules/elementor/widgets/products-carousel-tabs-1.php:87
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:87
+#: modules/elementor/widgets/products-carousel-tabs.php:87
+#: modules/elementor/widgets/products-carousel-with-timer.php:87
+#: modules/elementor/widgets/products-carousel.php:87
+#: modules/elementor/widgets/products-category-with-image.php:87
+#: modules/elementor/widgets/products-list-block.php:87
+#: modules/elementor/widgets/products-one-two-block.php:87
+#: modules/elementor/widgets/products-tabs-element.php:87
+#: modules/elementor/widgets/products-with-category-image.php:87
+#: modules/elementor/widgets/recent-viewed-products.php:87
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:87
+#: modules/elementor/widgets/slider-with-ads-block.php:102
+#: modules/elementor/widgets/team-member.php:87
+#: modules/elementor/widgets/two-row-products.php:87
+#: modules/elementor/widgets/vertical-nav-menu.php:97
+msgid "Content"
+msgstr ""
+
+#: modules/elementor/widgets/ad-block.php:95
+msgid "Ad block"
+msgstr ""
+
+#: modules/elementor/widgets/ad-block.php:100
+#: modules/elementor/widgets/slider-with-ads-block.php:132
+msgid "Ad text"
+msgstr ""
+
+#: modules/elementor/widgets/ad-block.php:102
+#: modules/elementor/widgets/ad-block.php:108
+#: modules/elementor/widgets/ad-block.php:119
+#: modules/elementor/widgets/ads-with-banner.php:102
+#: modules/elementor/widgets/ads-with-banner.php:108
+#: modules/elementor/widgets/ads-with-banner.php:114
+#: modules/elementor/widgets/ads-with-banner.php:125
+#: modules/elementor/widgets/ads-with-banner.php:131
+#: modules/elementor/widgets/ads-with-banner.php:137
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:105
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:114
+#: modules/elementor/widgets/slider-with-ads-block.php:134
+#: modules/elementor/widgets/slider-with-ads-block.php:140
+#: modules/elementor/widgets/slider-with-ads-block.php:146
+msgid "Enter your link text here"
+msgstr ""
+
+#: modules/elementor/widgets/ad-block.php:106
+#: modules/elementor/widgets/deal-products-block.php:202
+#: modules/elementor/widgets/product-categories-menu-list.php:167
+#: modules/elementor/widgets/products-carousel-1.php:105
+#: modules/elementor/widgets/products-carousel-tabs-1.php:103
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:103
+#: modules/elementor/widgets/products-carousel-with-timer.php:139
+#: modules/elementor/widgets/products-list-block.php:116
+#: modules/elementor/widgets/products-one-two-block.php:182
+#: modules/elementor/widgets/slider-with-ads-block.php:138
+#: modules/elementor/widgets/two-row-products.php:105
+#: modules/elementor/widgets/vertical-nav-menu.php:115
+#: modules/js_composer/config/map.php:89 modules/js_composer/config/map.php:136
+#: modules/js_composer/config/map.php:1677
+#: modules/js_composer/config/map.php:1891
+#: modules/js_composer/config/map.php:2468
+#: modules/js_composer/config/map.php:2882
+#: modules/js_composer/config/map.php:3006
+#: modules/js_composer/config/map.php:4458
+#: modules/js_composer/config/map.php:4656
+#: modules/js_composer/config/map.php:5290
+#: modules/js_composer/config/map.php:5947
+#: modules/js_composer/config/map.php:6093
+msgid "Action Text"
+msgstr ""
+
+#: modules/elementor/widgets/ad-block.php:112
+#: modules/elementor/widgets/slider-with-ads-block.php:127
+msgid "Ad image"
+msgstr ""
+
+#: modules/elementor/widgets/ad-block.php:117
+#: modules/elementor/widgets/deal-products-block.php:210
+#: modules/elementor/widgets/product-categories-menu-list.php:175
+#: modules/elementor/widgets/products-carousel-1.php:113
+#: modules/elementor/widgets/products-carousel-tabs-1.php:111
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:112
+#: modules/elementor/widgets/products-carousel-with-timer.php:147
+#: modules/elementor/widgets/products-list-block.php:124
+#: modules/elementor/widgets/products-one-two-block.php:190
+#: modules/elementor/widgets/slider-with-ads-block.php:144
+#: modules/elementor/widgets/two-row-products.php:113
+#: modules/elementor/widgets/vertical-nav-menu.php:125
+#: modules/js_composer/config/map.php:48 modules/js_composer/config/map.php:94
+#: modules/js_composer/config/map.php:141
+#: modules/js_composer/config/map.php:437
+#: modules/js_composer/config/map.php:1684
+#: modules/js_composer/config/map.php:1898
+#: modules/js_composer/config/map.php:2475
+#: modules/js_composer/config/map.php:2888
+#: modules/js_composer/config/map.php:3012
+#: modules/js_composer/config/map.php:4465
+#: modules/js_composer/config/map.php:4663
+#: modules/js_composer/config/map.php:5295
+#: modules/js_composer/config/map.php:5953
+#: modules/js_composer/config/map.php:6098
+msgid "Action Link"
+msgstr ""
+
+#: modules/elementor/widgets/ad-block.php:129
+#: modules/elementor/widgets/ads-with-banner.php:156
+#: modules/elementor/widgets/product-categories-block.php:185
+#: modules/elementor/widgets/team-member.php:142
+msgid "Extra class name"
+msgstr ""
+
+#: modules/elementor/widgets/ad-block.php:131
+#: modules/elementor/widgets/ads-with-banner.php:158
+#: modules/elementor/widgets/product-categories-block.php:187
+#: modules/elementor/widgets/team-member.php:144
+msgid ""
+"If you wish to style particular content element differently, please add a "
+"class name to this field and refer to it in your custom CSS file."
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:43
+#: modules/elementor/widgets/ads-with-banner.php:95
+msgid "Ads with banners block"
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:100
+#: modules/elementor/widgets/brands-carousel.php:95
+#: modules/elementor/widgets/deal-and-product-tabs.php:95
+#: modules/elementor/widgets/deal-and-product-tabs.php:170
+#: modules/elementor/widgets/jumbotron.php:95
+#: modules/elementor/widgets/nav-menu.php:105
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:95
+#: modules/elementor/widgets/product-categories-menu-list.php:111
+#: modules/elementor/widgets/product-onsale-carousel.php:95
+#: modules/elementor/widgets/product-onsale.php:95
+#: modules/elementor/widgets/products-carousel-1.php:95
+#: modules/elementor/widgets/products-carousel-category-with-image.php:95
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:193
+#: modules/elementor/widgets/products-carousel-with-timer.php:95
+#: modules/elementor/widgets/products-carousel.php:95
+#: modules/elementor/widgets/products-category-with-image.php:95
+#: modules/elementor/widgets/products-with-category-image.php:95
+#: modules/elementor/widgets/slider-with-ads-block.php:110
+#: modules/elementor/widgets/two-row-products.php:95
+#: modules/elementor/widgets/vertical-nav-menu.php:105
+#: modules/js_composer/config/map.php:422
+#: modules/js_composer/config/map.php:552
+#: modules/js_composer/config/map.php:728
+#: modules/js_composer/config/map.php:1074
+#: modules/js_composer/config/map.php:2539
+#: modules/js_composer/config/map.php:4676
+#: modules/js_composer/config/map.php:5094
+#: modules/js_composer/config/map.php:5242
+#: modules/js_composer/config/map.php:5324
+#: modules/js_composer/config/map.php:6086
+msgid "Title"
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:106
+#: modules/js_composer/config/map.php:427
+msgid "Description"
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:112
+#: modules/js_composer/config/map.php:432
+msgid "Price"
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:118
+#: modules/elementor/widgets/jumbotron.php:111
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:213
+#: modules/elementor/widgets/products-carousel-category-with-image.php:289
+#: modules/elementor/widgets/products-category-with-image.php:297
+#: modules/elementor/widgets/products-with-category-image.php:360
+#: modules/js_composer/config/map.php:42 modules/js_composer/config/map.php:79
+#: modules/js_composer/config/map.php:126
+#: modules/js_composer/config/map.php:442
+#: modules/js_composer/config/map.php:562
+#: modules/js_composer/config/map.php:3955
+#: modules/js_composer/config/map.php:5466
+#: modules/js_composer/config/map.php:5727
+msgid "Image"
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:123
+msgid "Action link"
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:129
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:224
+#: modules/js_composer/config/map.php:207
+#: modules/js_composer/config/map.php:447
+#: modules/js_composer/config/map.php:6819
+msgid "Banner Action Link"
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:135
+#: modules/js_composer/config/map.php:214
+#: modules/js_composer/config/map.php:452
+#: modules/js_composer/config/map.php:6813
+msgid "Banner Image"
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:141
+#: modules/js_composer/config/map.php:458
+msgid "Banner Alignment"
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:143
+#: modules/elementor/widgets/brands-carousel.php:169
+#: modules/elementor/widgets/brands-carousel.php:181
+#: modules/elementor/widgets/category-icons-carousel.php:107
+#: modules/elementor/widgets/category-icons-carousel.php:205
+#: modules/elementor/widgets/category-icons-carousel.php:217
+#: modules/elementor/widgets/category-icons-carousel.php:229
+#: modules/elementor/widgets/deal-and-product-tabs.php:107
+#: modules/elementor/widgets/deals-products-carousel.php:107
+#: modules/elementor/widgets/deals-products-carousel.php:281
+#: modules/elementor/widgets/deals-products-carousel.php:293
+#: modules/elementor/widgets/deals-products-carousel.php:314
+#: modules/elementor/widgets/mobile-product-deals-block.php:106
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:192
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:221
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:331
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:344
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:356
+#: modules/elementor/widgets/product-categories-block.php:124
+#: modules/elementor/widgets/product-categories-block.php:173
+#: modules/elementor/widgets/product-categories-list-with-header.php:122
+#: modules/elementor/widgets/product-categories-list-with-header.php:152
+#: modules/elementor/widgets/product-categories-list.php:116
+#: modules/elementor/widgets/product-categories-menu-list.php:126
+#: modules/elementor/widgets/product-list-categories.php:115
+#: modules/elementor/widgets/product-onsale-carousel.php:107
+#: modules/elementor/widgets/product-onsale-carousel.php:175
+#: modules/elementor/widgets/product-onsale-carousel.php:187
+#: modules/elementor/widgets/product-onsale-carousel.php:199
+#: modules/elementor/widgets/product-onsale-carousel.php:211
+#: modules/elementor/widgets/product-onsale-carousel.php:223
+#: modules/elementor/widgets/product-onsale-carousel.php:235
+#: modules/elementor/widgets/product-onsale-carousel.php:273
+#: modules/elementor/widgets/product-onsale.php:107
+#: modules/elementor/widgets/products-2-1-2-block.php:196
+#: modules/elementor/widgets/products-6-1-block.php:195
+#: modules/elementor/widgets/products-6-1-with-categories.php:235
+#: modules/elementor/widgets/products-6-1-with-categories.php:256
+#: modules/elementor/widgets/products-6-1-with-categories.php:316
+#: modules/elementor/widgets/products-cards-carousel.php:137
+#: modules/elementor/widgets/products-cards-carousel.php:149
+#: modules/elementor/widgets/products-cards-carousel.php:253
+#: modules/elementor/widgets/products-cards-carousel.php:273
+#: modules/elementor/widgets/products-carousel-1.php:271
+#: modules/elementor/widgets/products-carousel-1.php:284
+#: modules/elementor/widgets/products-carousel-1.php:297
+#: modules/elementor/widgets/products-carousel-1.php:309
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:296
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:308
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:320
+#: modules/elementor/widgets/products-carousel-category-with-image.php:134
+#: modules/elementor/widgets/products-carousel-category-with-image.php:217
+#: modules/elementor/widgets/products-carousel-category-with-image.php:239
+#: modules/elementor/widgets/products-carousel-category-with-image.php:355
+#: modules/elementor/widgets/products-carousel-category-with-image.php:368
+#: modules/elementor/widgets/products-carousel-category-with-image.php:380
+#: modules/elementor/widgets/products-carousel-tabs-1.php:251
+#: modules/elementor/widgets/products-carousel-tabs-1.php:279
+#: modules/elementor/widgets/products-carousel-tabs-1.php:291
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:131
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:332
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:344
+#: modules/elementor/widgets/products-carousel-tabs.php:236
+#: modules/elementor/widgets/products-carousel-tabs.php:248
+#: modules/elementor/widgets/products-carousel-with-timer.php:107
+#: modules/elementor/widgets/products-carousel-with-timer.php:301
+#: modules/elementor/widgets/products-carousel-with-timer.php:314
+#: modules/elementor/widgets/products-carousel-with-timer.php:326
+#: modules/elementor/widgets/products-carousel-with-timer.php:338
+#: modules/elementor/widgets/products-carousel.php:181
+#: modules/elementor/widgets/products-carousel.php:269
+#: modules/elementor/widgets/products-carousel.php:281
+#: modules/elementor/widgets/products-carousel.php:294
+#: modules/elementor/widgets/products-category-with-image.php:225
+#: modules/elementor/widgets/products-category-with-image.php:247
+#: modules/elementor/widgets/products-list-block.php:235
+#: modules/elementor/widgets/products-list-block.php:264
+#: modules/elementor/widgets/products-with-category-image.php:225
+#: modules/elementor/widgets/products-with-category-image.php:247
+#: modules/elementor/widgets/products-with-category-image.php:310
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:172
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:184
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:196
+msgid "Enable"
+msgstr ""
+
+#: modules/elementor/widgets/ads-with-banner.php:144
+#: modules/elementor/widgets/brands-carousel.php:170
+#: modules/elementor/widgets/brands-carousel.php:182
+#: modules/elementor/widgets/category-icons-carousel.php:108
+#: modules/elementor/widgets/category-icons-carousel.php:206
+#: modules/elementor/widgets/category-icons-carousel.php:218
+#: modules/elementor/widgets/category-icons-carousel.php:230
+#: modules/elementor/widgets/deal-and-product-tabs.php:108
+#: modules/elementor/widgets/deals-products-carousel.php:108
+#: modules/elementor/widgets/deals-products-carousel.php:282
+#: modules/elementor/widgets/deals-products-carousel.php:294
+#: modules/elementor/widgets/deals-products-carousel.php:315
+#: modules/elementor/widgets/mobile-product-deals-block.php:107
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:193
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:222
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:332
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:345
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:357
+#: modules/elementor/widgets/product-categories-block.php:125
+#: modules/elementor/widgets/product-categories-block.php:174
+#: modules/elementor/widgets/product-categories-list-with-header.php:123
+#: modules/elementor/widgets/product-categories-list-with-header.php:153
+#: modules/elementor/widgets/product-categories-list.php:117
+#: modules/elementor/widgets/product-categories-menu-list.php:127
+#: modules/elementor/widgets/product-list-categories.php:116
+#: modules/elementor/widgets/product-onsale-carousel.php:108
+#: modules/elementor/widgets/product-onsale-carousel.php:176
+#: modules/elementor/widgets/product-onsale-carousel.php:188
+#: modules/elementor/widgets/product-onsale-carousel.php:200
+#: modules/elementor/widgets/product-onsale-carousel.php:212
+#: modules/elementor/widgets/product-onsale-carousel.php:224
+#: modules/elementor/widgets/product-onsale-carousel.php:236
+#: modules/elementor/widgets/product-onsale-carousel.php:274
+#: modules/elementor/widgets/product-onsale.php:108
+#: modules/elementor/widgets/products-2-1-2-block.php:197
+#: modules/elementor/widgets/products-6-1-block.php:196
+#: modules/elementor/widgets/products-6-1-with-categories.php:236
+#: modules/elementor/widgets/products-6-1-with-categories.php:257
+#: modules/elementor/widgets/products-6-1-with-categories.php:317
+#: modules/elementor/widgets/products-cards-carousel.php:138
+#: modules/elementor/widgets/products-cards-carousel.php:150
+#: modules/elementor/widgets/products-cards-carousel.php:254
+#: modules/elementor/widgets/products-cards-carousel.php:274
+#: modules/elementor/widgets/products-carousel-1.php:272
+#: modules/elementor/widgets/products-carousel-1.php:285
+#: modules/elementor/widgets/products-carousel-1.php:298
+#: modules/elementor/widgets/products-carousel-1.php:310
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:297
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:309
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:321
+#: modules/elementor/widgets/products-carousel-category-with-image.php:135
+#: modules/elementor/widgets/products-carousel-category-with-image.php:218
+#: modules/elementor/widgets/products-carousel-category-with-image.php:240
+#: modules/elementor/widgets/products-carousel-category-with-image.php:356
+#: modules/elementor/widgets/products-carousel-category-with-image.php:369
+#: modules/elementor/widgets/products-carousel-category-with-image.php:381
+#: modules/elementor/widgets/products-carousel-tabs-1.php:252
+#: modules/elementor/widgets/products-carousel-tabs-1.php:280
+#: modules/elementor/widgets/products-carousel-tabs-1.php:292
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:132
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:333
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:345
+#: modules/elementor/widgets/products-carousel-tabs.php:237
+#: modules/elementor/widgets/products-carousel-tabs.php:249
+#: modules/elementor/widgets/products-carousel-with-timer.php:108
+#: modules/elementor/widgets/products-carousel-with-timer.php:302
+#: modules/elementor/widgets/products-carousel-with-timer.php:315
+#: modules/elementor/widgets/products-carousel-with-timer.php:327
+#: modules/elementor/widgets/products-carousel-with-timer.php:339
+#: modules/elementor/widgets/products-carousel.php:182
+#: modules/elementor/widgets/products-carousel.php:270
+#: modules/elementor/widgets/products-carousel.php:282
+#: modules/elementor/widgets/products-carousel.php:295
+#: modules/elementor/widgets/products-category-with-image.php:226
+#: modules/elementor/widgets/products-category-with-image.php:248
+#: modules/elementor/widgets/products-list-block.php:236
+#: modules/elementor/widgets/products-list-block.php:265
+#: modules/elementor/widgets/products-with-category-image.php:226
+#: modules/elementor/widgets/products-with-category-image.php:248
+#: modules/elementor/widgets/products-with-category-image.php:311
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:173
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:185
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:197
+msgid "Disable"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:43
+msgid "Brands Carousel"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:97
+msgid " Enter title"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:104
+#: modules/js_composer/config/map.php:2081
+msgid "Number of Brands to display"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:113
+#: modules/elementor/widgets/category-icons-carousel.php:105
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:218
+#: modules/elementor/widgets/product-categories-block.php:122
+#: modules/elementor/widgets/product-categories-list-with-header.php:150
+#: modules/elementor/widgets/product-categories-list.php:114
+#: modules/elementor/widgets/product-categories-menu-list.php:123
+#: modules/elementor/widgets/product-list-categories.php:113
+#: modules/elementor/widgets/products-2-1-2-block.php:194
+#: modules/elementor/widgets/products-6-1-block.php:193
+#: modules/elementor/widgets/products-6-1-with-categories.php:254
+#: modules/elementor/widgets/products-6-1-with-categories.php:314
+#: modules/elementor/widgets/products-cards-carousel.php:271
+#: modules/elementor/widgets/products-carousel-category-with-image.php:236
+#: modules/elementor/widgets/products-category-with-image.php:244
+#: modules/elementor/widgets/products-list-block.php:261
+#: modules/elementor/widgets/products-with-category-image.php:244
+#: modules/elementor/widgets/products-with-category-image.php:308
+#: modules/js_composer/config/map.php:1379
+#: modules/js_composer/config/map.php:2089
+#: modules/js_composer/config/map.php:2179
+#: modules/js_composer/config/map.php:2256
+#: modules/js_composer/config/map.php:2340
+#: modules/js_composer/config/map.php:2709
+#: modules/js_composer/config/map.php:3080
+#: modules/js_composer/config/map.php:3256
+#: modules/js_composer/config/map.php:3415
+#: modules/js_composer/config/map.php:3625
+#: modules/js_composer/config/map.php:3672
+#: modules/js_composer/config/map.php:3869
+#: modules/js_composer/config/map.php:3916
+#: modules/js_composer/config/map.php:4333
+#: modules/js_composer/config/map.php:4593
+#: modules/js_composer/config/map.php:5279
+#: modules/js_composer/config/map.php:5427
+#: modules/js_composer/config/map.php:5688
+#: modules/js_composer/config/map.php:6453
+#: modules/js_composer/config/map.php:6516
+msgid "Have no products"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:115
+#: modules/elementor/widgets/brands-carousel.php:157
+msgid "Hide"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:116
+#: modules/elementor/widgets/brands-carousel.php:158
+msgid "Show"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:119
+#: modules/js_composer/config/map.php:2090
+msgid "Show Brands does not have products"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:126
+#: modules/elementor/widgets/deal-and-product-tabs.php:219
+#: modules/elementor/widgets/deal-products-block.php:121
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:231
+#: modules/elementor/widgets/product-categories-block.php:135
+#: modules/elementor/widgets/product-categories-list-with-header.php:163
+#: modules/elementor/widgets/product-categories-list.php:127
+#: modules/elementor/widgets/product-categories-menu-list.php:135
+#: modules/elementor/widgets/product-list-categories.php:126
+#: modules/elementor/widgets/products-2-1-2-block.php:122
+#: modules/elementor/widgets/products-2-1-2-block.php:207
+#: modules/elementor/widgets/products-6-1-block.php:122
+#: modules/elementor/widgets/products-6-1-block.php:206
+#: modules/elementor/widgets/products-6-1-with-categories.php:122
+#: modules/elementor/widgets/products-6-1-with-categories.php:267
+#: modules/elementor/widgets/products-6-1-with-categories.php:328
+#: modules/elementor/widgets/products-cards-carousel.php:187
+#: modules/elementor/widgets/products-cards-carousel.php:284
+#: modules/elementor/widgets/products-carousel-category-with-image.php:249
+#: modules/elementor/widgets/products-category-with-image.php:257
+#: modules/elementor/widgets/products-list-block.php:274
+#: modules/elementor/widgets/products-one-two-block.php:121
+#: modules/elementor/widgets/products-with-category-image.php:257
+#: modules/elementor/widgets/products-with-category-image.php:320
+#: modules/js_composer/config/map.php:253
+#: modules/js_composer/config/map.php:1291
+#: modules/js_composer/config/map.php:1388
+#: modules/js_composer/config/map.php:1467
+#: modules/js_composer/config/map.php:1715
+#: modules/js_composer/config/map.php:1929
+#: modules/js_composer/config/map.php:2098
+#: modules/js_composer/config/map.php:2188
+#: modules/js_composer/config/map.php:2265
+#: modules/js_composer/config/map.php:2349
+#: modules/js_composer/config/map.php:2718
+#: modules/js_composer/config/map.php:2795
+#: modules/js_composer/config/map.php:2935
+#: modules/js_composer/config/map.php:3089
+#: modules/js_composer/config/map.php:3177
+#: modules/js_composer/config/map.php:3265
+#: modules/js_composer/config/map.php:3336
+#: modules/js_composer/config/map.php:3424
+#: modules/js_composer/config/map.php:3495
+#: modules/js_composer/config/map.php:3634
+#: modules/js_composer/config/map.php:3681
+#: modules/js_composer/config/map.php:3773
+#: modules/js_composer/config/map.php:3878
+#: modules/js_composer/config/map.php:3925
+#: modules/js_composer/config/map.php:4229
+#: modules/js_composer/config/map.php:4342
+#: modules/js_composer/config/map.php:4489
+#: modules/js_composer/config/map.php:4602
+#: modules/js_composer/config/map.php:4892
+#: modules/js_composer/config/map.php:5255
+#: modules/js_composer/config/map.php:5436
+#: modules/js_composer/config/map.php:5506
+#: modules/js_composer/config/map.php:5697
+#: modules/js_composer/config/map.php:5757
+#: modules/js_composer/config/map.php:5976
+#: modules/js_composer/config/map.php:6351
+#: modules/js_composer/config/map.php:6462
+#: modules/js_composer/config/map.php:6525
+msgid "Order by"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:128
+#: modules/elementor/widgets/deal-products-block.php:123
+#: modules/elementor/widgets/deals-products-carousel.php:176
+#: modules/elementor/widgets/mobile-product-deals-block.php:163
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:124
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:233
+#: modules/elementor/widgets/products-2-1-2-block.php:124
+#: modules/elementor/widgets/products-6-1-block.php:124
+#: modules/elementor/widgets/products-6-1-with-categories.php:124
+#: modules/elementor/widgets/products-6-1-with-categories.php:330
+#: modules/elementor/widgets/products-cards-carousel.php:189
+#: modules/elementor/widgets/products-cards-carousel.php:286
+#: modules/elementor/widgets/products-carousel-1.php:150
+#: modules/elementor/widgets/products-carousel-category-with-image.php:146
+#: modules/elementor/widgets/products-carousel-category-with-image.php:251
+#: modules/elementor/widgets/products-carousel-with-timer.php:184
+#: modules/elementor/widgets/products-category-with-image.php:154
+#: modules/elementor/widgets/products-category-with-image.php:259
+#: modules/elementor/widgets/products-list-block.php:152
+#: modules/elementor/widgets/products-list-block.php:276
+#: modules/elementor/widgets/products-with-category-image.php:154
+#: modules/elementor/widgets/products-with-category-image.php:259
+#: modules/elementor/widgets/products-with-category-image.php:322
+#: modules/elementor/widgets/two-row-products.php:171
+#: modules/js_composer/config/map.php:255
+#: modules/js_composer/config/map.php:1293
+#: modules/js_composer/config/map.php:1390
+#: modules/js_composer/config/map.php:1469
+#: modules/js_composer/config/map.php:1717
+#: modules/js_composer/config/map.php:1931
+#: modules/js_composer/config/map.php:2100
+#: modules/js_composer/config/map.php:2797
+#: modules/js_composer/config/map.php:2937
+#: modules/js_composer/config/map.php:3179
+#: modules/js_composer/config/map.php:3267
+#: modules/js_composer/config/map.php:3338
+#: modules/js_composer/config/map.php:3426
+#: modules/js_composer/config/map.php:3497
+#: modules/js_composer/config/map.php:3636
+#: modules/js_composer/config/map.php:3683
+#: modules/js_composer/config/map.php:3775
+#: modules/js_composer/config/map.php:3880
+#: modules/js_composer/config/map.php:3927
+#: modules/js_composer/config/map.php:4231
+#: modules/js_composer/config/map.php:4344
+#: modules/js_composer/config/map.php:4491
+#: modules/js_composer/config/map.php:4604
+#: modules/js_composer/config/map.php:4894
+#: modules/js_composer/config/map.php:5257
+#: modules/js_composer/config/map.php:5438
+#: modules/js_composer/config/map.php:5508
+#: modules/js_composer/config/map.php:5699
+#: modules/js_composer/config/map.php:5759
+#: modules/js_composer/config/map.php:5978
+#: modules/js_composer/config/map.php:6353
+#: modules/js_composer/config/map.php:6720
+#: modules/js_composer/config/map.php:6776
+msgid ""
+" Sort retrieved posts by parameter. Defaults to 'date'. One or more options "
+"can be passed"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:137
+#: modules/elementor/widgets/category-icons-carousel.php:126
+#: modules/elementor/widgets/deal-and-product-tabs.php:227
+#: modules/elementor/widgets/deal-products-block.php:131
+#: modules/elementor/widgets/deals-products-carousel.php:184
+#: modules/elementor/widgets/mobile-product-deals-block.php:171
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:132
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:241
+#: modules/elementor/widgets/product-categories-block.php:145
+#: modules/elementor/widgets/product-categories-list-with-header.php:173
+#: modules/elementor/widgets/product-categories-list.php:137
+#: modules/elementor/widgets/product-categories-menu-list.php:142
+#: modules/elementor/widgets/product-list-categories.php:136
+#: modules/elementor/widgets/products-2-1-2-block.php:132
+#: modules/elementor/widgets/products-2-1-2-block.php:217
+#: modules/elementor/widgets/products-6-1-block.php:132
+#: modules/elementor/widgets/products-6-1-block.php:216
+#: modules/elementor/widgets/products-6-1-with-categories.php:132
+#: modules/elementor/widgets/products-6-1-with-categories.php:277
+#: modules/elementor/widgets/products-6-1-with-categories.php:338
+#: modules/elementor/widgets/products-cards-carousel.php:197
+#: modules/elementor/widgets/products-cards-carousel.php:294
+#: modules/elementor/widgets/products-carousel-1.php:158
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:123
+#: modules/elementor/widgets/products-carousel-category-with-image.php:154
+#: modules/elementor/widgets/products-carousel-category-with-image.php:259
+#: modules/elementor/widgets/products-carousel-tabs-1.php:159
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:222
+#: modules/elementor/widgets/products-carousel-tabs.php:135
+#: modules/elementor/widgets/products-carousel-with-timer.php:192
+#: modules/elementor/widgets/products-carousel.php:142
+#: modules/elementor/widgets/products-category-with-image.php:162
+#: modules/elementor/widgets/products-category-with-image.php:267
+#: modules/elementor/widgets/products-list-block.php:160
+#: modules/elementor/widgets/products-list-block.php:284
+#: modules/elementor/widgets/products-one-two-block.php:131
+#: modules/elementor/widgets/products-tabs-element.php:156
+#: modules/elementor/widgets/products-with-category-image.php:162
+#: modules/elementor/widgets/products-with-category-image.php:267
+#: modules/elementor/widgets/products-with-category-image.php:330
+#: modules/elementor/widgets/two-row-products.php:179
+#: modules/js_composer/config/map.php:261
+#: modules/js_composer/config/map.php:781
+#: modules/js_composer/config/map.php:1113
+#: modules/js_composer/config/map.php:1299
+#: modules/js_composer/config/map.php:1396
+#: modules/js_composer/config/map.php:1475
+#: modules/js_composer/config/map.php:1723
+#: modules/js_composer/config/map.php:1937
+#: modules/js_composer/config/map.php:2106
+#: modules/js_composer/config/map.php:2196
+#: modules/js_composer/config/map.php:2273
+#: modules/js_composer/config/map.php:2357
+#: modules/js_composer/config/map.php:2571
+#: modules/js_composer/config/map.php:2726
+#: modules/js_composer/config/map.php:2803
+#: modules/js_composer/config/map.php:2943
+#: modules/js_composer/config/map.php:3097
+#: modules/js_composer/config/map.php:3185
+#: modules/js_composer/config/map.php:3273
+#: modules/js_composer/config/map.php:3344
+#: modules/js_composer/config/map.php:3432
+#: modules/js_composer/config/map.php:3503
+#: modules/js_composer/config/map.php:3642
+#: modules/js_composer/config/map.php:3689
+#: modules/js_composer/config/map.php:3781
+#: modules/js_composer/config/map.php:3886
+#: modules/js_composer/config/map.php:3933
+#: modules/js_composer/config/map.php:4237
+#: modules/js_composer/config/map.php:4350
+#: modules/js_composer/config/map.php:4497
+#: modules/js_composer/config/map.php:4610
+#: modules/js_composer/config/map.php:4715
+#: modules/js_composer/config/map.php:4900
+#: modules/js_composer/config/map.php:5146
+#: modules/js_composer/config/map.php:5263
+#: modules/js_composer/config/map.php:5444
+#: modules/js_composer/config/map.php:5514
+#: modules/js_composer/config/map.php:5705
+#: modules/js_composer/config/map.php:5765
+#: modules/js_composer/config/map.php:5984
+#: modules/js_composer/config/map.php:6199
+#: modules/js_composer/config/map.php:6359
+#: modules/js_composer/config/map.php:6470
+#: modules/js_composer/config/map.php:6533
+msgid "Order"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:139
+#: modules/elementor/widgets/deal-products-block.php:133
+#: modules/elementor/widgets/deals-products-carousel.php:186
+#: modules/elementor/widgets/mobile-product-deals-block.php:173
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:144
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:243
+#: modules/elementor/widgets/products-2-1-2-block.php:134
+#: modules/elementor/widgets/products-2-1-2-block.php:209
+#: modules/elementor/widgets/products-6-1-block.php:134
+#: modules/elementor/widgets/products-6-1-block.php:208
+#: modules/elementor/widgets/products-6-1-with-categories.php:134
+#: modules/elementor/widgets/products-6-1-with-categories.php:269
+#: modules/elementor/widgets/products-6-1-with-categories.php:340
+#: modules/elementor/widgets/products-cards-carousel.php:199
+#: modules/elementor/widgets/products-carousel-1.php:160
+#: modules/elementor/widgets/products-carousel-category-with-image.php:156
+#: modules/elementor/widgets/products-carousel-category-with-image.php:261
+#: modules/elementor/widgets/products-carousel-with-timer.php:194
+#: modules/elementor/widgets/products-category-with-image.php:164
+#: modules/elementor/widgets/products-category-with-image.php:269
+#: modules/elementor/widgets/products-list-block.php:162
+#: modules/elementor/widgets/products-list-block.php:286
+#: modules/elementor/widgets/products-one-two-block.php:123
+#: modules/elementor/widgets/products-one-two-block.php:133
+#: modules/elementor/widgets/products-with-category-image.php:164
+#: modules/elementor/widgets/products-with-category-image.php:269
+#: modules/elementor/widgets/products-with-category-image.php:332
+#: modules/elementor/widgets/two-row-products.php:181
+#: modules/js_composer/config/map.php:263
+#: modules/js_composer/config/map.php:1301
+#: modules/js_composer/config/map.php:1398
+#: modules/js_composer/config/map.php:1477
+#: modules/js_composer/config/map.php:1725
+#: modules/js_composer/config/map.php:1939
+#: modules/js_composer/config/map.php:2108
+#: modules/js_composer/config/map.php:2805
+#: modules/js_composer/config/map.php:2945
+#: modules/js_composer/config/map.php:3187
+#: modules/js_composer/config/map.php:3275
+#: modules/js_composer/config/map.php:3346
+#: modules/js_composer/config/map.php:3434
+#: modules/js_composer/config/map.php:3505
+#: modules/js_composer/config/map.php:3644
+#: modules/js_composer/config/map.php:3691
+#: modules/js_composer/config/map.php:3783
+#: modules/js_composer/config/map.php:3888
+#: modules/js_composer/config/map.php:3935
+#: modules/js_composer/config/map.php:4239
+#: modules/js_composer/config/map.php:4352
+#: modules/js_composer/config/map.php:4499
+#: modules/js_composer/config/map.php:4612
+#: modules/js_composer/config/map.php:4902
+#: modules/js_composer/config/map.php:5265
+#: modules/js_composer/config/map.php:5446
+#: modules/js_composer/config/map.php:5516
+#: modules/js_composer/config/map.php:5707
+#: modules/js_composer/config/map.php:5767
+#: modules/js_composer/config/map.php:5986
+#: modules/js_composer/config/map.php:6361
+#: modules/js_composer/config/map.php:6728
+#: modules/js_composer/config/map.php:6784
+msgid ""
+"Designates the ascending or descending order of the 'orderby' parameter. "
+"Defaults to 'DESC'."
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:147
+#: modules/elementor/widgets/category-icons-carousel.php:145
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:252
+#: modules/elementor/widgets/product-categories-block.php:163
+#: modules/elementor/widgets/product-categories-list-with-header.php:191
+#: modules/elementor/widgets/product-categories-list.php:155
+#: modules/elementor/widgets/product-categories-menu-list.php:155
+#: modules/elementor/widgets/product-list-categories.php:155
+#: modules/elementor/widgets/products-2-1-2-block.php:226
+#: modules/elementor/widgets/products-6-1-block.php:225
+#: modules/elementor/widgets/products-6-1-with-categories.php:286
+#: modules/elementor/widgets/products-6-1-with-categories.php:348
+#: modules/elementor/widgets/products-cards-carousel.php:303
+#: modules/elementor/widgets/products-carousel-category-with-image.php:270
+#: modules/elementor/widgets/products-category-with-image.php:278
+#: modules/elementor/widgets/products-list-block.php:294
+#: modules/elementor/widgets/products-with-category-image.php:278
+#: modules/elementor/widgets/products-with-category-image.php:341
+#: modules/js_composer/config/map.php:1404
+#: modules/js_composer/config/map.php:2114
+#: modules/js_composer/config/map.php:2211
+#: modules/js_composer/config/map.php:2288
+#: modules/js_composer/config/map.php:2372
+#: modules/js_composer/config/map.php:2741
+#: modules/js_composer/config/map.php:3112
+#: modules/js_composer/config/map.php:3281
+#: modules/js_composer/config/map.php:3440
+#: modules/js_composer/config/map.php:3650
+#: modules/js_composer/config/map.php:3697
+#: modules/js_composer/config/map.php:3894
+#: modules/js_composer/config/map.php:3941
+#: modules/js_composer/config/map.php:4358
+#: modules/js_composer/config/map.php:4618
+#: modules/js_composer/config/map.php:5452
+#: modules/js_composer/config/map.php:5713
+#: modules/js_composer/config/map.php:6485
+#: modules/js_composer/config/map.php:6549
+msgid "Include ID's"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:155
+#: modules/elementor/widgets/category-icons-carousel.php:215
+#: modules/elementor/widgets/deals-products-carousel.php:291
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:342
+#: modules/elementor/widgets/product-onsale-carousel.php:233
+#: modules/elementor/widgets/products-carousel-1.php:295
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:306
+#: modules/elementor/widgets/products-carousel-category-with-image.php:366
+#: modules/elementor/widgets/products-carousel-with-timer.php:324
+#: modules/elementor/widgets/products-carousel.php:279
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:182
+#: modules/js_composer/config/map.php:385
+#: modules/js_composer/config/map.php:1615
+#: modules/js_composer/config/map.php:1819
+#: modules/js_composer/config/map.php:2033
+#: modules/js_composer/config/map.php:2122
+#: modules/js_composer/config/map.php:2423
+#: modules/js_composer/config/map.php:4150
+#: modules/js_composer/config/map.php:4407
+#: modules/js_composer/config/map.php:4989
+#: modules/js_composer/config/map.php:5622
+#: modules/js_composer/config/map.php:5898
+#: modules/js_composer/config/map.php:6624
+#: modules/js_composer/config/map.php:6837
+msgid "Carousel: Enable Touch Drag"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:167
+#: modules/elementor/widgets/category-icons-carousel.php:227
+#: modules/elementor/widgets/deals-products-carousel.php:312
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:354
+#: modules/elementor/widgets/product-onsale-carousel.php:271
+#: modules/elementor/widgets/products-cards-carousel.php:251
+#: modules/elementor/widgets/products-carousel-1.php:307
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:318
+#: modules/elementor/widgets/products-carousel-category-with-image.php:378
+#: modules/elementor/widgets/products-carousel-tabs-1.php:289
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:342
+#: modules/elementor/widgets/products-carousel-tabs.php:246
+#: modules/elementor/widgets/products-carousel-with-timer.php:336
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:194
+#: modules/js_composer/config/map.php:394
+#: modules/js_composer/config/map.php:1036
+#: modules/js_composer/config/map.php:1186
+#: modules/js_composer/config/map.php:1363
+#: modules/js_composer/config/map.php:1645
+#: modules/js_composer/config/map.php:1828
+#: modules/js_composer/config/map.php:2042
+#: modules/js_composer/config/map.php:2131
+#: modules/js_composer/config/map.php:2432
+#: modules/js_composer/config/map.php:2670
+#: modules/js_composer/config/map.php:4180
+#: modules/js_composer/config/map.php:4416
+#: modules/js_composer/config/map.php:4806
+#: modules/js_composer/config/map.php:5019
+#: modules/js_composer/config/map.php:5631
+#: modules/js_composer/config/map.php:5907
+#: modules/js_composer/config/map.php:6633
+#: modules/js_composer/config/map.php:6846
+msgid "Carousel: Autoplay"
+msgstr ""
+
+#: modules/elementor/widgets/brands-carousel.php:179
+#: modules/js_composer/config/map.php:2140
+msgid "Carousel: Loop"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:43
+msgid "Category Icon Carousel"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:95
+#: modules/elementor/widgets/deal-and-product-tabs.php:191
+#: modules/elementor/widgets/deal-products-block.php:141
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:142
+#: modules/elementor/widgets/products-cards-carousel.php:159
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:181
+#: modules/elementor/widgets/products-carousel-category-with-image.php:122
+#: modules/elementor/widgets/products-carousel-tabs-1.php:145
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:303
+#: modules/elementor/widgets/products-carousel-tabs.php:121
+#: modules/elementor/widgets/products-carousel.php:124
+#: modules/elementor/widgets/products-category-with-image.php:122
+#: modules/elementor/widgets/products-list-block.php:170
+#: modules/elementor/widgets/products-tabs-element.php:121
+#: modules/elementor/widgets/products-with-category-image.php:122
+#: modules/elementor/widgets/recent-viewed-products.php:103
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:103
+#: modules/elementor/widgets/two-row-products.php:139
+#: modules/js_composer/config/map.php:752
+#: modules/js_composer/config/map.php:1098
+#: modules/js_composer/config/map.php:1267
+#: modules/js_composer/config/map.php:2636
+#: modules/js_composer/config/map.php:2811
+#: modules/js_composer/config/map.php:3752
+#: modules/js_composer/config/map.php:4245
+#: modules/js_composer/config/map.php:4505
+#: modules/js_composer/config/map.php:4700
+#: modules/js_composer/config/map.php:5118
+#: modules/js_composer/config/map.php:5357
+#: modules/js_composer/config/map.php:5773
+#: modules/js_composer/config/map.php:5992
+msgid "Limit"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:98
+msgid "Enter Number of Categories to display"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:117
+#: modules/elementor/widgets/products-carousel-tabs-1.php:152
+#: modules/elementor/widgets/products-carousel-tabs.php:128
+#: modules/elementor/widgets/products-tabs-element.php:149
+#: modules/js_composer/config/map.php:773
+#: modules/js_composer/config/map.php:1105
+#: modules/js_composer/config/map.php:2563
+#: modules/js_composer/config/map.php:4707
+#: modules/js_composer/config/map.php:5138
+#: modules/js_composer/config/map.php:6192
+msgid "Order By"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:135
+msgid "Include Slugs"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:137
+msgid "Enter the slug seperate by comma(,)"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:147
+msgid "Enter the ID 's seperate by comma(,)"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:155
+#: modules/elementor/widgets/deals-products-carousel.php:231
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:272
+#: modules/elementor/widgets/products-carousel-1.php:212
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:236
+#: modules/elementor/widgets/products-carousel-category-with-image.php:305
+#: modules/elementor/widgets/products-carousel-tabs-1.php:201
+#: modules/elementor/widgets/products-carousel-tabs.php:177
+#: modules/elementor/widgets/products-carousel-with-timer.php:245
+#: modules/elementor/widgets/products-carousel.php:204
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:112
+#: modules/js_composer/config/map.php:324
+#: modules/js_composer/config/map.php:1178
+#: modules/js_composer/config/map.php:1554
+#: modules/js_composer/config/map.php:1786
+#: modules/js_composer/config/map.php:2000
+#: modules/js_composer/config/map.php:2378
+#: modules/js_composer/config/map.php:4374
+#: modules/js_composer/config/map.php:4780
+#: modules/js_composer/config/map.php:4963
+#: modules/js_composer/config/map.php:5577
+#: modules/js_composer/config/map.php:5881
+msgid "Carousel: Items"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:164
+#: modules/elementor/widgets/deals-products-carousel.php:240
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:281
+#: modules/elementor/widgets/products-carousel-1.php:221
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:246
+#: modules/elementor/widgets/products-carousel-category-with-image.php:314
+#: modules/elementor/widgets/products-carousel-tabs-1.php:210
+#: modules/elementor/widgets/products-carousel-tabs.php:186
+#: modules/elementor/widgets/products-carousel-with-timer.php:254
+#: modules/elementor/widgets/products-carousel.php:214
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:122
+#: modules/js_composer/config/map.php:331
+#: modules/js_composer/config/map.php:1000
+#: modules/js_composer/config/map.php:1561
+#: modules/js_composer/config/map.php:2385
+#: modules/js_composer/config/map.php:5584
+msgid "Carousel: Items(0 - 479)"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:166
+#: modules/elementor/widgets/category-icons-carousel.php:176
+#: modules/elementor/widgets/category-icons-carousel.php:186
+#: modules/elementor/widgets/category-icons-carousel.php:196
+#: modules/elementor/widgets/deals-products-carousel.php:242
+#: modules/elementor/widgets/deals-products-carousel.php:252
+#: modules/elementor/widgets/deals-products-carousel.php:262
+#: modules/elementor/widgets/deals-products-carousel.php:272
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:283
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:293
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:303
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:313
+#: modules/elementor/widgets/products-carousel-1.php:223
+#: modules/elementor/widgets/products-carousel-1.php:233
+#: modules/elementor/widgets/products-carousel-1.php:243
+#: modules/elementor/widgets/products-carousel-1.php:253
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:238
+#: modules/elementor/widgets/products-carousel-category-with-image.php:316
+#: modules/elementor/widgets/products-carousel-category-with-image.php:326
+#: modules/elementor/widgets/products-carousel-category-with-image.php:336
+#: modules/elementor/widgets/products-carousel-category-with-image.php:346
+#: modules/elementor/widgets/products-carousel-tabs-1.php:212
+#: modules/elementor/widgets/products-carousel-tabs-1.php:222
+#: modules/elementor/widgets/products-carousel-tabs-1.php:232
+#: modules/elementor/widgets/products-carousel-tabs-1.php:242
+#: modules/elementor/widgets/products-carousel-tabs.php:188
+#: modules/elementor/widgets/products-carousel-tabs.php:198
+#: modules/elementor/widgets/products-carousel-tabs.php:208
+#: modules/elementor/widgets/products-carousel-tabs.php:218
+#: modules/elementor/widgets/products-carousel-tabs.php:227
+#: modules/elementor/widgets/products-carousel-with-timer.php:256
+#: modules/elementor/widgets/products-carousel-with-timer.php:265
+#: modules/elementor/widgets/products-carousel-with-timer.php:274
+#: modules/elementor/widgets/products-carousel-with-timer.php:283
+#: modules/elementor/widgets/products-carousel.php:206
+#: modules/elementor/widgets/products-carousel.php:216
+#: modules/elementor/widgets/products-carousel.php:227
+#: modules/elementor/widgets/products-carousel.php:238
+#: modules/elementor/widgets/products-carousel.php:249
+#: modules/elementor/widgets/products-carousel.php:259
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:114
+msgid "Enter the number of items to display."
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:174
+#: modules/elementor/widgets/deals-products-carousel.php:250
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:291
+#: modules/elementor/widgets/products-carousel-1.php:231
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:256
+#: modules/elementor/widgets/products-carousel-category-with-image.php:324
+#: modules/elementor/widgets/products-carousel-tabs-1.php:220
+#: modules/elementor/widgets/products-carousel-tabs.php:196
+#: modules/elementor/widgets/products-carousel-with-timer.php:263
+#: modules/elementor/widgets/products-carousel.php:225
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:132
+#: modules/js_composer/config/map.php:338
+#: modules/js_composer/config/map.php:1007
+#: modules/js_composer/config/map.php:1568
+#: modules/js_composer/config/map.php:2392
+#: modules/js_composer/config/map.php:5591
+msgid "Carousel: Items(480 - 767)"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:184
+#: modules/elementor/widgets/deals-products-carousel.php:260
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:301
+#: modules/elementor/widgets/products-carousel-1.php:241
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:266
+#: modules/elementor/widgets/products-carousel-category-with-image.php:334
+#: modules/elementor/widgets/products-carousel-tabs-1.php:230
+#: modules/elementor/widgets/products-carousel-tabs.php:206
+#: modules/elementor/widgets/products-carousel-with-timer.php:272
+#: modules/elementor/widgets/products-carousel.php:236
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:142
+#: modules/js_composer/config/map.php:345
+#: modules/js_composer/config/map.php:1014
+#: modules/js_composer/config/map.php:1575
+#: modules/js_composer/config/map.php:2399
+#: modules/js_composer/config/map.php:5598
+msgid "Carousel: Items(768 - 991)"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:194
+#: modules/elementor/widgets/deals-products-carousel.php:270
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:311
+#: modules/elementor/widgets/products-carousel-1.php:251
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:276
+#: modules/elementor/widgets/products-carousel-category-with-image.php:344
+#: modules/elementor/widgets/products-carousel-tabs-1.php:240
+#: modules/elementor/widgets/products-carousel-tabs.php:216
+#: modules/elementor/widgets/products-carousel-with-timer.php:281
+#: modules/elementor/widgets/products-carousel.php:247
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:152
+#: modules/js_composer/config/map.php:352
+#: modules/js_composer/config/map.php:359
+#: modules/js_composer/config/map.php:1021
+#: modules/js_composer/config/map.php:1582
+#: modules/js_composer/config/map.php:2406
+#: modules/js_composer/config/map.php:5605
+msgid "Carousel: Items(992 - 1199)"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:203
+#: modules/elementor/widgets/deals-products-carousel.php:279
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:329
+#: modules/elementor/widgets/product-onsale-carousel.php:221
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:294
+#: modules/elementor/widgets/products-carousel-tabs-1.php:277
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:330
+#: modules/elementor/widgets/products-carousel-tabs.php:234
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:170
+#: modules/js_composer/config/map.php:376
+#: modules/js_composer/config/map.php:1606
+#: modules/js_composer/config/map.php:1810
+#: modules/js_composer/config/map.php:2024
+#: modules/js_composer/config/map.php:2414
+#: modules/js_composer/config/map.php:2661
+#: modules/js_composer/config/map.php:4141
+#: modules/js_composer/config/map.php:4398
+#: modules/js_composer/config/map.php:4797
+#: modules/js_composer/config/map.php:4980
+#: modules/js_composer/config/map.php:5613
+#: modules/js_composer/config/map.php:5889
+msgid "Carousel: Show Dots"
+msgstr ""
+
+#: modules/elementor/widgets/category-icons-carousel.php:239
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:330
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:206
+#: modules/js_composer/config/map.php:61
+#: modules/js_composer/config/map.php:6161
+msgid "Extra Class"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:43
+msgid "Deals and Products Tabs"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:98
+#: modules/elementor/widgets/deals-products-carousel.php:128
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:97
+#: modules/elementor/widgets/product-onsale-carousel.php:98
+#: modules/elementor/widgets/product-onsale.php:98
+#: modules/elementor/widgets/products-2-1-2-block.php:95
+#: modules/elementor/widgets/products-carousel-category-with-image.php:97
+#: modules/elementor/widgets/products-carousel-tabs-1.php:95
+#: modules/elementor/widgets/products-category-with-image.php:97
+#: modules/elementor/widgets/products-with-category-image.php:97
+#: modules/js_composer/config/map.php:1211
+#: modules/js_composer/config/map.php:1436
+#: modules/js_composer/config/map.php:1670
+#: modules/js_composer/config/map.php:1861
+#: modules/js_composer/config/map.php:2074
+#: modules/js_composer/config/map.php:2164
+#: modules/js_composer/config/map.php:2234
+#: modules/js_composer/config/map.php:2771
+#: modules/js_composer/config/map.php:2911
+#: modules/js_composer/config/map.php:3035
+#: modules/js_composer/config/map.php:3153
+#: modules/js_composer/config/map.php:3312
+#: modules/js_composer/config/map.php:3471
+#: modules/js_composer/config/map.php:3728
+#: modules/js_composer/config/map.php:3984
+#: modules/js_composer/config/map.php:4046
+#: modules/js_composer/config/map.php:4205
+#: modules/js_composer/config/map.php:4441
+#: modules/js_composer/config/map.php:4649
+#: modules/js_composer/config/map.php:5043
+#: modules/js_composer/config/map.php:5395
+#: modules/js_composer/config/map.php:5656
+#: modules/js_composer/config/map.php:5874
+#: modules/js_composer/config/map.php:5940
+msgid "Enter title"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:105
+#: modules/elementor/widgets/product-onsale-carousel.php:105
+#: modules/elementor/widgets/product-onsale.php:105
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:129
+#: modules/js_composer/config/map.php:2490
+#: modules/js_composer/config/map.php:3991
+#: modules/js_composer/config/map.php:4054
+#: modules/js_composer/config/map.php:5050
+msgid "Show Savings Details"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:111
+msgid "Deals savings text"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:118
+#: modules/elementor/widgets/product-onsale-carousel.php:117
+#: modules/elementor/widgets/product-onsale.php:117
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:141
+#: modules/js_composer/config/map.php:2498
+#: modules/js_composer/config/map.php:3998
+#: modules/js_composer/config/map.php:4062
+#: modules/js_composer/config/map.php:5057
+msgid "Savings in"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:122
+#: modules/elementor/widgets/product-onsale-carousel.php:121
+#: modules/elementor/widgets/product-onsale.php:121
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:144
+#: modules/js_composer/config/map.php:2500
+#: modules/js_composer/config/map.php:4000
+#: modules/js_composer/config/map.php:4064
+#: modules/js_composer/config/map.php:5059
+msgid "Amount"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:123
+#: modules/elementor/widgets/product-onsale-carousel.php:122
+#: modules/elementor/widgets/product-onsale.php:122
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:145
+#: modules/js_composer/config/map.php:2501
+#: modules/js_composer/config/map.php:4001
+#: modules/js_composer/config/map.php:4065
+#: modules/js_composer/config/map.php:5060
+msgid "Percentage"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:132
+#: modules/elementor/widgets/product-onsale-carousel.php:131
+#: modules/elementor/widgets/product-onsale.php:131
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:154
+#: modules/js_composer/config/map.php:2508
+#: modules/js_composer/config/map.php:4007
+#: modules/js_composer/config/map.php:4072
+#: modules/js_composer/config/map.php:5066
+msgid "Savings Text"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:140
+#: modules/elementor/widgets/deal-and-product-tabs.php:234
+#: modules/elementor/widgets/deals-products-carousel.php:194
+#: modules/elementor/widgets/mobile-product-deals-block.php:182
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:152
+#: modules/elementor/widgets/product-onsale-carousel.php:148
+#: modules/elementor/widgets/product-onsale.php:148
+#: modules/elementor/widgets/products-2-1-2-block.php:142
+#: modules/elementor/widgets/products-6-1-block.php:142
+#: modules/elementor/widgets/products-6-1-with-categories.php:142
+#: modules/elementor/widgets/products-cards-carousel.php:208
+#: modules/elementor/widgets/products-carousel-1.php:170
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:134
+#: modules/elementor/widgets/products-carousel-tabs-1.php:166
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:162
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:229
+#: modules/elementor/widgets/products-carousel-tabs.php:142
+#: modules/elementor/widgets/products-carousel-with-timer.php:203
+#: modules/elementor/widgets/products-carousel.php:152
+#: modules/elementor/widgets/products-list-block.php:190
+#: modules/elementor/widgets/two-row-products.php:191
+#: modules/js_composer/config/map.php:269
+#: modules/js_composer/config/map.php:789
+#: modules/js_composer/config/map.php:1121
+#: modules/js_composer/config/map.php:1307
+#: modules/js_composer/config/map.php:1483
+#: modules/js_composer/config/map.php:1731
+#: modules/js_composer/config/map.php:1945
+#: modules/js_composer/config/map.php:2515
+#: modules/js_composer/config/map.php:2579
+#: modules/js_composer/config/map.php:2827
+#: modules/js_composer/config/map.php:2951
+#: modules/js_composer/config/map.php:3193
+#: modules/js_composer/config/map.php:3352
+#: modules/js_composer/config/map.php:3511
+#: modules/js_composer/config/map.php:3789
+#: modules/js_composer/config/map.php:4013
+#: modules/js_composer/config/map.php:4086
+#: modules/js_composer/config/map.php:4253
+#: modules/js_composer/config/map.php:4513
+#: modules/js_composer/config/map.php:4723
+#: modules/js_composer/config/map.php:4908
+#: modules/js_composer/config/map.php:5072
+#: modules/js_composer/config/map.php:5154
+#: modules/js_composer/config/map.php:5522
+#: modules/js_composer/config/map.php:5794
+#: modules/js_composer/config/map.php:6015
+#: modules/js_composer/config/map.php:6367
+#: modules/js_composer/config/map.php:6587
+msgid "Product Choice"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:144
+#: modules/elementor/widgets/product-onsale-carousel.php:152
+#: modules/elementor/widgets/product-onsale.php:152
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:165
+#: modules/js_composer/config/map.php:2517
+#: modules/js_composer/config/map.php:4015
+#: modules/js_composer/config/map.php:4088
+#: modules/js_composer/config/map.php:5074
+#: modules/js_composer/config/map.php:6589
+msgid "Recent"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:145
+#: modules/elementor/widgets/product-onsale-carousel.php:153
+#: modules/elementor/widgets/product-onsale.php:153
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:166
+#: modules/js_composer/config/map.php:2518
+#: modules/js_composer/config/map.php:4016
+#: modules/js_composer/config/map.php:4089
+#: modules/js_composer/config/map.php:5075
+#: modules/js_composer/config/map.php:6590
+msgid "Random"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:146
+#: modules/elementor/widgets/product-onsale-carousel.php:154
+#: modules/elementor/widgets/product-onsale.php:154
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:167
+#: modules/js_composer/config/map.php:2519
+#: modules/js_composer/config/map.php:4017
+#: modules/js_composer/config/map.php:4090
+#: modules/js_composer/config/map.php:5076
+#: modules/js_composer/config/map.php:6591
+msgid "Specific"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:156
+#: modules/elementor/widgets/product-onsale-carousel.php:164
+#: modules/elementor/widgets/product-onsale.php:164
+#: modules/elementor/widgets/products-cards-carousel.php:222
+#: modules/elementor/widgets/products-list-block.php:204
+#: modules/js_composer/config/map.php:2526
+#: modules/js_composer/config/map.php:4023
+#: modules/js_composer/config/map.php:4097
+#: modules/js_composer/config/map.php:5082
+#: modules/js_composer/config/map.php:6598
+msgid "Product ID"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:164
+#: modules/elementor/widgets/products-carousel-tabs.php:95
+#: modules/elementor/widgets/products-tabs-element.php:95
+#: modules/elementor/widgets/slider-with-ads-block.php:121
+msgid "Products Tabs Element"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:172
+#: modules/elementor/widgets/product-categories-menu-list.php:113
+#: modules/elementor/widgets/product-list-categories.php:97
+#: modules/elementor/widgets/products-cards-carousel.php:97
+#: modules/elementor/widgets/products-carousel-tabs-1.php:126
+#: modules/elementor/widgets/products-carousel-tabs.php:102
+#: modules/elementor/widgets/products-tabs-element.php:102
+#: modules/js_composer/config/map.php:730
+#: modules/js_composer/config/map.php:1076
+#: modules/js_composer/config/map.php:2541
+#: modules/js_composer/config/map.php:4678
+#: modules/js_composer/config/map.php:5096
+msgid "Enter title."
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:176
+#: modules/elementor/widgets/deal-products-block.php:103
+#: modules/elementor/widgets/products-cards-carousel.php:168
+#: modules/elementor/widgets/products-carousel-tabs-1.php:130
+#: modules/elementor/widgets/products-carousel-tabs.php:106
+#: modules/elementor/widgets/products-one-two-block.php:103
+#: modules/elementor/widgets/products-tabs-element.php:106
+#: modules/js_composer/config/map.php:228
+#: modules/js_composer/config/map.php:735
+#: modules/js_composer/config/map.php:1081
+#: modules/js_composer/config/map.php:1274
+#: modules/js_composer/config/map.php:1443
+#: modules/js_composer/config/map.php:1691
+#: modules/js_composer/config/map.php:1905
+#: modules/js_composer/config/map.php:2546
+#: modules/js_composer/config/map.php:2778
+#: modules/js_composer/config/map.php:2918
+#: modules/js_composer/config/map.php:3160
+#: modules/js_composer/config/map.php:3319
+#: modules/js_composer/config/map.php:3478
+#: modules/js_composer/config/map.php:3735
+#: modules/js_composer/config/map.php:4212
+#: modules/js_composer/config/map.php:4472
+#: modules/js_composer/config/map.php:4683
+#: modules/js_composer/config/map.php:4868
+#: modules/js_composer/config/map.php:5101
+#: modules/js_composer/config/map.php:5479
+#: modules/js_composer/config/map.php:5740
+#: modules/js_composer/config/map.php:5959
+#: modules/js_composer/config/map.php:6327
+msgid "Shortcode"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:179
+#: modules/elementor/widgets/deal-products-block.php:106
+#: modules/elementor/widgets/deals-products-carousel.php:150
+#: modules/elementor/widgets/mobile-product-deals-block.php:137
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:107
+#: modules/elementor/widgets/products-2-1-2-block.php:107
+#: modules/elementor/widgets/products-6-1-block.php:107
+#: modules/elementor/widgets/products-6-1-with-categories.php:107
+#: modules/elementor/widgets/products-6-1-with-categories.php:187
+#: modules/elementor/widgets/products-cards-carousel.php:171
+#: modules/elementor/widgets/products-carousel-1.php:124
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:98
+#: modules/elementor/widgets/products-carousel-category-with-image.php:107
+#: modules/elementor/widgets/products-carousel-tabs-1.php:133
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:202
+#: modules/elementor/widgets/products-carousel-tabs.php:109
+#: modules/elementor/widgets/products-carousel-with-timer.php:158
+#: modules/elementor/widgets/products-carousel.php:109
+#: modules/elementor/widgets/products-category-with-image.php:107
+#: modules/elementor/widgets/products-list-block.php:135
+#: modules/elementor/widgets/products-one-two-block.php:106
+#: modules/elementor/widgets/products-tabs-element.php:109
+#: modules/elementor/widgets/products-with-category-image.php:107
+#: modules/elementor/widgets/two-row-products.php:124
+#: modules/js_composer/config/map.php:232
+#: modules/js_composer/config/map.php:592
+#: modules/js_composer/config/map.php:630
+#: modules/js_composer/config/map.php:668
+#: modules/js_composer/config/map.php:739
+#: modules/js_composer/config/map.php:870
+#: modules/js_composer/config/map.php:908
+#: modules/js_composer/config/map.php:946
+#: modules/js_composer/config/map.php:1085
+#: modules/js_composer/config/map.php:1278
+#: modules/js_composer/config/map.php:1447
+#: modules/js_composer/config/map.php:1695
+#: modules/js_composer/config/map.php:1909
+#: modules/js_composer/config/map.php:2550
+#: modules/js_composer/config/map.php:2782
+#: modules/js_composer/config/map.php:2922
+#: modules/js_composer/config/map.php:3164
+#: modules/js_composer/config/map.php:3323
+#: modules/js_composer/config/map.php:3482
+#: modules/js_composer/config/map.php:3570
+#: modules/js_composer/config/map.php:3739
+#: modules/js_composer/config/map.php:4216
+#: modules/js_composer/config/map.php:4476
+#: modules/js_composer/config/map.php:4687
+#: modules/js_composer/config/map.php:4872
+#: modules/js_composer/config/map.php:5105
+#: modules/js_composer/config/map.php:5483
+#: modules/js_composer/config/map.php:5744
+#: modules/js_composer/config/map.php:5963
+#: modules/js_composer/config/map.php:6331
+msgid "Featured Products"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:180
+#: modules/elementor/widgets/deal-products-block.php:107
+#: modules/elementor/widgets/deals-products-carousel.php:151
+#: modules/elementor/widgets/mobile-product-deals-block.php:138
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:108
+#: modules/elementor/widgets/products-2-1-2-block.php:108
+#: modules/elementor/widgets/products-6-1-block.php:108
+#: modules/elementor/widgets/products-6-1-with-categories.php:108
+#: modules/elementor/widgets/products-6-1-with-categories.php:188
+#: modules/elementor/widgets/products-cards-carousel.php:172
+#: modules/elementor/widgets/products-carousel-1.php:125
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:99
+#: modules/elementor/widgets/products-carousel-category-with-image.php:108
+#: modules/elementor/widgets/products-carousel-tabs-1.php:134
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:203
+#: modules/elementor/widgets/products-carousel-tabs.php:110
+#: modules/elementor/widgets/products-carousel-with-timer.php:159
+#: modules/elementor/widgets/products-carousel.php:110
+#: modules/elementor/widgets/products-category-with-image.php:108
+#: modules/elementor/widgets/products-list-block.php:136
+#: modules/elementor/widgets/products-one-two-block.php:107
+#: modules/elementor/widgets/products-tabs-element.php:110
+#: modules/elementor/widgets/products-with-category-image.php:108
+#: modules/elementor/widgets/two-row-products.php:125
+#: modules/js_composer/config/map.php:233
+#: modules/js_composer/config/map.php:593
+#: modules/js_composer/config/map.php:631
+#: modules/js_composer/config/map.php:669
+#: modules/js_composer/config/map.php:740
+#: modules/js_composer/config/map.php:871
+#: modules/js_composer/config/map.php:909
+#: modules/js_composer/config/map.php:947
+#: modules/js_composer/config/map.php:1086
+#: modules/js_composer/config/map.php:1279
+#: modules/js_composer/config/map.php:1448
+#: modules/js_composer/config/map.php:1696
+#: modules/js_composer/config/map.php:1910
+#: modules/js_composer/config/map.php:2551
+#: modules/js_composer/config/map.php:2783
+#: modules/js_composer/config/map.php:2923
+#: modules/js_composer/config/map.php:3165
+#: modules/js_composer/config/map.php:3324
+#: modules/js_composer/config/map.php:3483
+#: modules/js_composer/config/map.php:3571
+#: modules/js_composer/config/map.php:3740
+#: modules/js_composer/config/map.php:4217
+#: modules/js_composer/config/map.php:4477
+#: modules/js_composer/config/map.php:4688
+#: modules/js_composer/config/map.php:4873
+#: modules/js_composer/config/map.php:5106
+#: modules/js_composer/config/map.php:5484
+#: modules/js_composer/config/map.php:5745
+#: modules/js_composer/config/map.php:5964
+#: modules/js_composer/config/map.php:6332
+msgid "On Sale Products"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:181
+#: modules/elementor/widgets/deal-products-block.php:108
+#: modules/elementor/widgets/deals-products-carousel.php:152
+#: modules/elementor/widgets/mobile-product-deals-block.php:139
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:109
+#: modules/elementor/widgets/products-2-1-2-block.php:109
+#: modules/elementor/widgets/products-6-1-block.php:109
+#: modules/elementor/widgets/products-6-1-with-categories.php:109
+#: modules/elementor/widgets/products-6-1-with-categories.php:189
+#: modules/elementor/widgets/products-cards-carousel.php:173
+#: modules/elementor/widgets/products-carousel-1.php:126
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:100
+#: modules/elementor/widgets/products-carousel-category-with-image.php:109
+#: modules/elementor/widgets/products-carousel-tabs-1.php:135
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:204
+#: modules/elementor/widgets/products-carousel-tabs.php:111
+#: modules/elementor/widgets/products-carousel-with-timer.php:160
+#: modules/elementor/widgets/products-carousel.php:111
+#: modules/elementor/widgets/products-category-with-image.php:109
+#: modules/elementor/widgets/products-list-block.php:137
+#: modules/elementor/widgets/products-one-two-block.php:108
+#: modules/elementor/widgets/products-tabs-element.php:111
+#: modules/elementor/widgets/products-with-category-image.php:109
+#: modules/elementor/widgets/two-row-products.php:126
+#: modules/js_composer/config/map.php:234
+#: modules/js_composer/config/map.php:594
+#: modules/js_composer/config/map.php:632
+#: modules/js_composer/config/map.php:670
+#: modules/js_composer/config/map.php:741
+#: modules/js_composer/config/map.php:872
+#: modules/js_composer/config/map.php:910
+#: modules/js_composer/config/map.php:948
+#: modules/js_composer/config/map.php:1087
+#: modules/js_composer/config/map.php:1280
+#: modules/js_composer/config/map.php:1449
+#: modules/js_composer/config/map.php:1697
+#: modules/js_composer/config/map.php:1911
+#: modules/js_composer/config/map.php:2552
+#: modules/js_composer/config/map.php:2784
+#: modules/js_composer/config/map.php:2924
+#: modules/js_composer/config/map.php:3166
+#: modules/js_composer/config/map.php:3325
+#: modules/js_composer/config/map.php:3484
+#: modules/js_composer/config/map.php:3572
+#: modules/js_composer/config/map.php:3741
+#: modules/js_composer/config/map.php:4218
+#: modules/js_composer/config/map.php:4478
+#: modules/js_composer/config/map.php:4689
+#: modules/js_composer/config/map.php:4874
+#: modules/js_composer/config/map.php:5107
+#: modules/js_composer/config/map.php:5485
+#: modules/js_composer/config/map.php:5746
+#: modules/js_composer/config/map.php:5965
+#: modules/js_composer/config/map.php:6333
+msgid "Top Rated Products"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:182
+#: modules/elementor/widgets/deal-products-block.php:109
+#: modules/elementor/widgets/deals-products-carousel.php:153
+#: modules/elementor/widgets/mobile-product-deals-block.php:140
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:110
+#: modules/elementor/widgets/products-2-1-2-block.php:110
+#: modules/elementor/widgets/products-6-1-block.php:110
+#: modules/elementor/widgets/products-6-1-with-categories.php:110
+#: modules/elementor/widgets/products-6-1-with-categories.php:190
+#: modules/elementor/widgets/products-cards-carousel.php:174
+#: modules/elementor/widgets/products-carousel-1.php:127
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:101
+#: modules/elementor/widgets/products-carousel-category-with-image.php:110
+#: modules/elementor/widgets/products-carousel-tabs-1.php:136
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:205
+#: modules/elementor/widgets/products-carousel-tabs.php:112
+#: modules/elementor/widgets/products-carousel-with-timer.php:161
+#: modules/elementor/widgets/products-carousel.php:112
+#: modules/elementor/widgets/products-category-with-image.php:110
+#: modules/elementor/widgets/products-list-block.php:138
+#: modules/elementor/widgets/products-one-two-block.php:109
+#: modules/elementor/widgets/products-tabs-element.php:112
+#: modules/elementor/widgets/products-with-category-image.php:110
+#: modules/elementor/widgets/two-row-products.php:127
+#: modules/js_composer/config/map.php:235
+#: modules/js_composer/config/map.php:595
+#: modules/js_composer/config/map.php:633
+#: modules/js_composer/config/map.php:671
+#: modules/js_composer/config/map.php:742
+#: modules/js_composer/config/map.php:873
+#: modules/js_composer/config/map.php:911
+#: modules/js_composer/config/map.php:949
+#: modules/js_composer/config/map.php:1088
+#: modules/js_composer/config/map.php:1281
+#: modules/js_composer/config/map.php:1450
+#: modules/js_composer/config/map.php:1698
+#: modules/js_composer/config/map.php:1912
+#: modules/js_composer/config/map.php:2553
+#: modules/js_composer/config/map.php:2785
+#: modules/js_composer/config/map.php:2925
+#: modules/js_composer/config/map.php:3167
+#: modules/js_composer/config/map.php:3326
+#: modules/js_composer/config/map.php:3485
+#: modules/js_composer/config/map.php:3573
+#: modules/js_composer/config/map.php:3742
+#: modules/js_composer/config/map.php:4219
+#: modules/js_composer/config/map.php:4479
+#: modules/js_composer/config/map.php:4690
+#: modules/js_composer/config/map.php:4875
+#: modules/js_composer/config/map.php:5108
+#: modules/js_composer/config/map.php:5486
+#: modules/js_composer/config/map.php:5747
+#: modules/js_composer/config/map.php:5966
+#: modules/js_composer/config/map.php:6334
+msgid "Recent Products"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:183
+#: modules/elementor/widgets/deal-products-block.php:110
+#: modules/elementor/widgets/deals-products-carousel.php:154
+#: modules/elementor/widgets/mobile-product-deals-block.php:141
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:111
+#: modules/elementor/widgets/products-2-1-2-block.php:111
+#: modules/elementor/widgets/products-6-1-block.php:111
+#: modules/elementor/widgets/products-6-1-with-categories.php:111
+#: modules/elementor/widgets/products-6-1-with-categories.php:191
+#: modules/elementor/widgets/products-cards-carousel.php:175
+#: modules/elementor/widgets/products-carousel-1.php:128
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:102
+#: modules/elementor/widgets/products-carousel-category-with-image.php:111
+#: modules/elementor/widgets/products-carousel-tabs-1.php:137
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:206
+#: modules/elementor/widgets/products-carousel-tabs.php:113
+#: modules/elementor/widgets/products-carousel-with-timer.php:162
+#: modules/elementor/widgets/products-carousel.php:113
+#: modules/elementor/widgets/products-category-with-image.php:111
+#: modules/elementor/widgets/products-list-block.php:139
+#: modules/elementor/widgets/products-one-two-block.php:110
+#: modules/elementor/widgets/products-tabs-element.php:113
+#: modules/elementor/widgets/products-with-category-image.php:111
+#: modules/elementor/widgets/two-row-products.php:128
+#: modules/js_composer/config/map.php:236
+#: modules/js_composer/config/map.php:596
+#: modules/js_composer/config/map.php:634
+#: modules/js_composer/config/map.php:672
+#: modules/js_composer/config/map.php:743
+#: modules/js_composer/config/map.php:874
+#: modules/js_composer/config/map.php:912
+#: modules/js_composer/config/map.php:950
+#: modules/js_composer/config/map.php:1089
+#: modules/js_composer/config/map.php:1282
+#: modules/js_composer/config/map.php:1451
+#: modules/js_composer/config/map.php:1699
+#: modules/js_composer/config/map.php:1913
+#: modules/js_composer/config/map.php:2554
+#: modules/js_composer/config/map.php:2786
+#: modules/js_composer/config/map.php:2926
+#: modules/js_composer/config/map.php:3168
+#: modules/js_composer/config/map.php:3327
+#: modules/js_composer/config/map.php:3486
+#: modules/js_composer/config/map.php:3574
+#: modules/js_composer/config/map.php:3743
+#: modules/js_composer/config/map.php:4220
+#: modules/js_composer/config/map.php:4480
+#: modules/js_composer/config/map.php:4691
+#: modules/js_composer/config/map.php:4876
+#: modules/js_composer/config/map.php:5109
+#: modules/js_composer/config/map.php:5487
+#: modules/js_composer/config/map.php:5748
+#: modules/js_composer/config/map.php:5967
+#: modules/js_composer/config/map.php:6335
+msgid "Best Selling Products"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:184
+#: modules/elementor/widgets/deal-products-block.php:111
+#: modules/elementor/widgets/deals-products-carousel.php:155
+#: modules/elementor/widgets/mobile-product-deals-block.php:142
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:112
+#: modules/elementor/widgets/products-2-1-2-block.php:112
+#: modules/elementor/widgets/products-6-1-block.php:112
+#: modules/elementor/widgets/products-6-1-with-categories.php:112
+#: modules/elementor/widgets/products-cards-carousel.php:176
+#: modules/elementor/widgets/products-carousel-1.php:129
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:103
+#: modules/elementor/widgets/products-carousel-category-with-image.php:112
+#: modules/elementor/widgets/products-carousel-tabs-1.php:138
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:207
+#: modules/elementor/widgets/products-carousel-tabs.php:114
+#: modules/elementor/widgets/products-carousel-with-timer.php:163
+#: modules/elementor/widgets/products-carousel.php:114
+#: modules/elementor/widgets/products-category-with-image.php:112
+#: modules/elementor/widgets/products-list-block.php:140
+#: modules/elementor/widgets/products-one-two-block.php:111
+#: modules/elementor/widgets/products-tabs-element.php:114
+#: modules/elementor/widgets/products-with-category-image.php:112
+#: modules/elementor/widgets/two-row-products.php:129
+#: modules/js_composer/config/map.php:238
+#: modules/js_composer/config/map.php:598
+#: modules/js_composer/config/map.php:636
+#: modules/js_composer/config/map.php:674
+#: modules/js_composer/config/map.php:745
+#: modules/js_composer/config/map.php:876
+#: modules/js_composer/config/map.php:914
+#: modules/js_composer/config/map.php:952
+#: modules/js_composer/config/map.php:1091
+#: modules/js_composer/config/map.php:1284
+#: modules/js_composer/config/map.php:1453
+#: modules/js_composer/config/map.php:1701
+#: modules/js_composer/config/map.php:1915
+#: modules/js_composer/config/map.php:2556
+#: modules/js_composer/config/map.php:2788
+#: modules/js_composer/config/map.php:2928
+#: modules/js_composer/config/map.php:3170
+#: modules/js_composer/config/map.php:3329
+#: modules/js_composer/config/map.php:3488
+#: modules/js_composer/config/map.php:3745
+#: modules/js_composer/config/map.php:4222
+#: modules/js_composer/config/map.php:4482
+#: modules/js_composer/config/map.php:4693
+#: modules/js_composer/config/map.php:4878
+#: modules/js_composer/config/map.php:5111
+#: modules/js_composer/config/map.php:5489
+#: modules/js_composer/config/map.php:5750
+#: modules/js_composer/config/map.php:5969
+#: modules/js_composer/config/map.php:6337
+msgid "Product Category"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:185
+#: modules/elementor/widgets/deal-products-block.php:112
+#: modules/elementor/widgets/deals-products-carousel.php:156
+#: modules/elementor/widgets/mobile-product-deals-block.php:143
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:113
+#: modules/elementor/widgets/products-2-1-2-block.php:113
+#: modules/elementor/widgets/products-6-1-block.php:113
+#: modules/elementor/widgets/products-6-1-with-categories.php:113
+#: modules/elementor/widgets/products-6-1-with-categories.php:192
+#: modules/elementor/widgets/products-cards-carousel.php:177
+#: modules/elementor/widgets/products-carousel-1.php:130
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:104
+#: modules/elementor/widgets/products-carousel-category-with-image.php:113
+#: modules/elementor/widgets/products-carousel-tabs-1.php:139
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:209
+#: modules/elementor/widgets/products-carousel-tabs.php:115
+#: modules/elementor/widgets/products-carousel-with-timer.php:164
+#: modules/elementor/widgets/products-carousel.php:115
+#: modules/elementor/widgets/products-category-with-image.php:113
+#: modules/elementor/widgets/products-list-block.php:141
+#: modules/elementor/widgets/products-one-two-block.php:112
+#: modules/elementor/widgets/products-tabs-element.php:115
+#: modules/elementor/widgets/products-with-category-image.php:113
+#: modules/elementor/widgets/two-row-products.php:130
+#: modules/js_composer/config/map.php:237
+#: modules/js_composer/config/map.php:597
+#: modules/js_composer/config/map.php:635
+#: modules/js_composer/config/map.php:673
+#: modules/js_composer/config/map.php:744
+#: modules/js_composer/config/map.php:875
+#: modules/js_composer/config/map.php:913
+#: modules/js_composer/config/map.php:951
+#: modules/js_composer/config/map.php:1090
+#: modules/js_composer/config/map.php:1283
+#: modules/js_composer/config/map.php:1452
+#: modules/js_composer/config/map.php:1700
+#: modules/js_composer/config/map.php:1914
+#: modules/js_composer/config/map.php:2555
+#: modules/js_composer/config/map.php:2787
+#: modules/js_composer/config/map.php:2927
+#: modules/js_composer/config/map.php:3169
+#: modules/js_composer/config/map.php:3328
+#: modules/js_composer/config/map.php:3487
+#: modules/js_composer/config/map.php:3575
+#: modules/js_composer/config/map.php:3744
+#: modules/js_composer/config/map.php:4221
+#: modules/js_composer/config/map.php:4481
+#: modules/js_composer/config/map.php:4692
+#: modules/js_composer/config/map.php:4877
+#: modules/js_composer/config/map.php:5110
+#: modules/js_composer/config/map.php:5488
+#: modules/js_composer/config/map.php:5749
+#: modules/js_composer/config/map.php:5968
+#: modules/js_composer/config/map.php:6336
+msgid "Products"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:193
+#: modules/elementor/widgets/deal-products-block.php:143
+#: modules/elementor/widgets/product-categories-list.php:106
+#: modules/elementor/widgets/product-onsale-carousel.php:141
+#: modules/elementor/widgets/products-carousel-tabs-1.php:147
+#: modules/elementor/widgets/products-carousel-tabs.php:123
+#: modules/elementor/widgets/products-list-block.php:172
+#: modules/elementor/widgets/products-tabs-element.php:123
+#: modules/elementor/widgets/recent-viewed-products.php:105
+#: modules/js_composer/config/map.php:754
+#: modules/js_composer/config/map.php:1100
+#: modules/js_composer/config/map.php:2638
+#: modules/js_composer/config/map.php:2813
+#: modules/js_composer/config/map.php:3754
+#: modules/js_composer/config/map.php:4247
+#: modules/js_composer/config/map.php:4507
+#: modules/js_composer/config/map.php:4702
+#: modules/js_composer/config/map.php:5120
+#: modules/js_composer/config/map.php:5134
+#: modules/js_composer/config/map.php:5359
+#: modules/js_composer/config/map.php:5775
+#: modules/js_composer/config/map.php:5994
+msgid "Enter the number of products to display."
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:198
+#: modules/elementor/widgets/deal-products-block.php:151
+#: modules/elementor/widgets/products-cards-carousel.php:115
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:321
+#: modules/elementor/widgets/products-category-with-image.php:132
+#: modules/elementor/widgets/products-list-block.php:180
+#: modules/elementor/widgets/products-tabs-element.php:128
+#: modules/elementor/widgets/products-with-category-image.php:132
+#: modules/elementor/widgets/recent-viewed-products.php:113
+#: modules/js_composer/config/map.php:759
+#: modules/js_composer/config/map.php:1225
+#: modules/js_composer/config/map.php:2652
+#: modules/js_composer/config/map.php:2819
+#: modules/js_composer/config/map.php:3759
+#: modules/js_composer/config/map.php:5125
+#: modules/js_composer/config/map.php:5364
+#: modules/js_composer/config/map.php:5780
+#: modules/js_composer/config/map.php:6000
+msgid "Columns"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:200
+#: modules/elementor/widgets/deal-products-block.php:153
+#: modules/elementor/widgets/product-categories-list.php:97
+#: modules/elementor/widgets/products-list-block.php:182
+#: modules/elementor/widgets/products-tabs-element.php:130
+#: modules/elementor/widgets/recent-viewed-products.php:115
+#: modules/js_composer/config/map.php:761
+#: modules/js_composer/config/map.php:2821
+#: modules/js_composer/config/map.php:3761
+#: modules/js_composer/config/map.php:5127
+#: modules/js_composer/config/map.php:5366
+#: modules/js_composer/config/map.php:5782
+#: modules/js_composer/config/map.php:6002
+msgid "Enter the number of columns to display."
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:205
+#: modules/js_composer/config/map.php:5132
+msgid "Wide Layout Limit"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:207
+msgid "Enter the number of wide products to display."
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:212
+#: modules/js_composer/config/map.php:5210
+msgid "Tab Products Wide Layout Columns"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:214
+#: modules/js_composer/config/map.php:5212
+msgid "Enter the number of tap products wide layout columns to display."
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:221
+#: modules/elementor/widgets/product-categories-menu-list.php:137
+#: modules/elementor/widgets/products-carousel-tabs-1.php:154
+#: modules/elementor/widgets/products-carousel-tabs.php:130
+#: modules/elementor/widgets/products-tabs-element.php:151
+#: modules/js_composer/config/map.php:775
+#: modules/js_composer/config/map.php:1107
+#: modules/js_composer/config/map.php:2565
+#: modules/js_composer/config/map.php:4709
+#: modules/js_composer/config/map.php:5140
+msgid "Enter orderby."
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:229
+#: modules/elementor/widgets/product-categories-menu-list.php:144
+msgid "Enter order"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:237
+#: modules/elementor/widgets/deal-products-block.php:164
+#: modules/elementor/widgets/products-2-1-2-block.php:145
+#: modules/elementor/widgets/products-6-1-block.php:145
+#: modules/elementor/widgets/products-6-1-with-categories.php:145
+#: modules/elementor/widgets/products-6-1-with-categories.php:205
+#: modules/elementor/widgets/products-cards-carousel.php:211
+#: modules/elementor/widgets/products-carousel-1.php:173
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:137
+#: modules/elementor/widgets/products-carousel-category-with-image.php:167
+#: modules/elementor/widgets/products-carousel-tabs-1.php:169
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:232
+#: modules/elementor/widgets/products-carousel-tabs.php:145
+#: modules/elementor/widgets/products-carousel-with-timer.php:206
+#: modules/elementor/widgets/products-category-with-image.php:175
+#: modules/elementor/widgets/products-list-block.php:194
+#: modules/elementor/widgets/products-one-two-block.php:144
+#: modules/elementor/widgets/products-with-category-image.php:175
+#: modules/elementor/widgets/two-row-products.php:194
+#: modules/js_composer/config/map.php:273
+#: modules/js_composer/config/map.php:793
+#: modules/js_composer/config/map.php:1125
+#: modules/js_composer/config/map.php:1311
+#: modules/js_composer/config/map.php:1487
+#: modules/js_composer/config/map.php:1735
+#: modules/js_composer/config/map.php:1949
+#: modules/js_composer/config/map.php:2583
+#: modules/js_composer/config/map.php:2831
+#: modules/js_composer/config/map.php:2955
+#: modules/js_composer/config/map.php:3197
+#: modules/js_composer/config/map.php:3356
+#: modules/js_composer/config/map.php:3515
+#: modules/js_composer/config/map.php:3585
+#: modules/js_composer/config/map.php:3793
+#: modules/js_composer/config/map.php:4257
+#: modules/js_composer/config/map.php:4517
+#: modules/js_composer/config/map.php:4727
+#: modules/js_composer/config/map.php:4912
+#: modules/js_composer/config/map.php:5158
+#: modules/js_composer/config/map.php:5526
+#: modules/js_composer/config/map.php:5798
+#: modules/js_composer/config/map.php:6019
+#: modules/js_composer/config/map.php:6371
+msgid "IDs"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:238
+#: modules/elementor/widgets/deal-products-block.php:165
+#: modules/elementor/widgets/products-2-1-2-block.php:146
+#: modules/elementor/widgets/products-6-1-block.php:146
+#: modules/elementor/widgets/products-6-1-with-categories.php:146
+#: modules/elementor/widgets/products-6-1-with-categories.php:206
+#: modules/elementor/widgets/products-cards-carousel.php:212
+#: modules/elementor/widgets/products-carousel-1.php:174
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:138
+#: modules/elementor/widgets/products-carousel-category-with-image.php:168
+#: modules/elementor/widgets/products-carousel-tabs-1.php:170
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:233
+#: modules/elementor/widgets/products-carousel-tabs.php:146
+#: modules/elementor/widgets/products-carousel-with-timer.php:207
+#: modules/elementor/widgets/products-category-with-image.php:176
+#: modules/elementor/widgets/products-list-block.php:195
+#: modules/elementor/widgets/products-one-two-block.php:145
+#: modules/elementor/widgets/products-with-category-image.php:176
+#: modules/elementor/widgets/two-row-products.php:195
+#: modules/js_composer/config/map.php:274
+#: modules/js_composer/config/map.php:794
+#: modules/js_composer/config/map.php:1126
+#: modules/js_composer/config/map.php:1312
+#: modules/js_composer/config/map.php:1488
+#: modules/js_composer/config/map.php:1736
+#: modules/js_composer/config/map.php:1950
+#: modules/js_composer/config/map.php:2584
+#: modules/js_composer/config/map.php:2832
+#: modules/js_composer/config/map.php:2956
+#: modules/js_composer/config/map.php:3198
+#: modules/js_composer/config/map.php:3357
+#: modules/js_composer/config/map.php:3516
+#: modules/js_composer/config/map.php:3586
+#: modules/js_composer/config/map.php:3794
+#: modules/js_composer/config/map.php:4258
+#: modules/js_composer/config/map.php:4518
+#: modules/js_composer/config/map.php:4728
+#: modules/js_composer/config/map.php:4913
+#: modules/js_composer/config/map.php:5159
+#: modules/js_composer/config/map.php:5527
+#: modules/js_composer/config/map.php:5799
+#: modules/js_composer/config/map.php:6020
+#: modules/js_composer/config/map.php:6372
+msgid "SKUs"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:244
+#: modules/elementor/widgets/deal-products-block.php:174
+#: modules/elementor/widgets/products-2-1-2-block.php:157
+#: modules/elementor/widgets/products-6-1-block.php:157
+#: modules/elementor/widgets/products-6-1-with-categories.php:157
+#: modules/elementor/widgets/products-carousel-tabs-1.php:176
+#: modules/elementor/widgets/products-carousel-tabs.php:152
+#: modules/elementor/widgets/products-one-two-block.php:154
+#: modules/js_composer/config/map.php:280
+#: modules/js_composer/config/map.php:800
+#: modules/js_composer/config/map.php:1132
+#: modules/js_composer/config/map.php:1318
+#: modules/js_composer/config/map.php:1494
+#: modules/js_composer/config/map.php:1742
+#: modules/js_composer/config/map.php:1956
+#: modules/js_composer/config/map.php:2590
+#: modules/js_composer/config/map.php:2838
+#: modules/js_composer/config/map.php:2962
+#: modules/js_composer/config/map.php:3204
+#: modules/js_composer/config/map.php:3363
+#: modules/js_composer/config/map.php:3522
+#: modules/js_composer/config/map.php:3800
+#: modules/js_composer/config/map.php:4264
+#: modules/js_composer/config/map.php:4524
+#: modules/js_composer/config/map.php:4734
+#: modules/js_composer/config/map.php:4919
+#: modules/js_composer/config/map.php:5165
+#: modules/js_composer/config/map.php:5533
+#: modules/js_composer/config/map.php:5805
+#: modules/js_composer/config/map.php:6026
+#: modules/js_composer/config/map.php:6378
+msgid "Product IDs or SKUs"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:246
+#: modules/elementor/widgets/deal-products-block.php:176
+#: modules/elementor/widgets/deals-products-carousel.php:205
+#: modules/elementor/widgets/mobile-product-deals-block.php:193
+#: modules/elementor/widgets/products-2-1-2-block.php:159
+#: modules/elementor/widgets/products-6-1-block.php:159
+#: modules/elementor/widgets/products-6-1-with-categories.php:159
+#: modules/elementor/widgets/products-cards-carousel.php:224
+#: modules/elementor/widgets/products-carousel-1.php:186
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:151
+#: modules/elementor/widgets/products-carousel-category-with-image.php:179
+#: modules/elementor/widgets/products-carousel-tabs-1.php:178
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:178
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:243
+#: modules/elementor/widgets/products-carousel-tabs.php:154
+#: modules/elementor/widgets/products-carousel-with-timer.php:219
+#: modules/elementor/widgets/products-carousel.php:163
+#: modules/elementor/widgets/products-category-with-image.php:187
+#: modules/elementor/widgets/products-one-two-block.php:156
+#: modules/elementor/widgets/products-with-category-image.php:187
+#: modules/elementor/widgets/two-row-products.php:207
+msgid "Enter IDs/SKUs separate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:250
+#: modules/elementor/widgets/deal-products-block.php:183
+#: modules/elementor/widgets/deals-products-carousel.php:212
+#: modules/elementor/widgets/mobile-product-deals-block.php:200
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:170
+#: modules/elementor/widgets/products-2-1-2-block.php:167
+#: modules/elementor/widgets/products-6-1-block.php:167
+#: modules/elementor/widgets/products-6-1-with-categories.php:167
+#: modules/elementor/widgets/products-cards-carousel.php:232
+#: modules/elementor/widgets/products-carousel-1.php:193
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:161
+#: modules/elementor/widgets/products-carousel-category-with-image.php:186
+#: modules/elementor/widgets/products-carousel-tabs-1.php:182
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:250
+#: modules/elementor/widgets/products-carousel-tabs.php:158
+#: modules/elementor/widgets/products-carousel-with-timer.php:226
+#: modules/elementor/widgets/products-carousel.php:170
+#: modules/elementor/widgets/products-category-with-image.php:194
+#: modules/elementor/widgets/products-list-block.php:213
+#: modules/elementor/widgets/products-one-two-block.php:163
+#: modules/elementor/widgets/products-tabs-element.php:143
+#: modules/elementor/widgets/products-with-category-image.php:194
+#: modules/elementor/widgets/two-row-products.php:214
+#: modules/js_composer/config/map.php:287
+#: modules/js_composer/config/map.php:807
+#: modules/js_composer/config/map.php:1139
+#: modules/js_composer/config/map.php:1325
+#: modules/js_composer/config/map.php:1501
+#: modules/js_composer/config/map.php:1749
+#: modules/js_composer/config/map.php:1963
+#: modules/js_composer/config/map.php:2597
+#: modules/js_composer/config/map.php:2845
+#: modules/js_composer/config/map.php:2969
+#: modules/js_composer/config/map.php:3211
+#: modules/js_composer/config/map.php:3370
+#: modules/js_composer/config/map.php:3529
+#: modules/js_composer/config/map.php:3807
+#: modules/js_composer/config/map.php:4271
+#: modules/js_composer/config/map.php:4531
+#: modules/js_composer/config/map.php:4741
+#: modules/js_composer/config/map.php:4926
+#: modules/js_composer/config/map.php:5172
+#: modules/js_composer/config/map.php:5540
+#: modules/js_composer/config/map.php:5812
+#: modules/js_composer/config/map.php:6033
+#: modules/js_composer/config/map.php:6385
+msgid "Category"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:252
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:264
+#: modules/elementor/widgets/products-6-1-block.php:169
+#: modules/elementor/widgets/products-6-1-with-categories.php:169
+#: modules/elementor/widgets/products-cards-carousel.php:234
+#: modules/elementor/widgets/products-cards-carousel.php:314
+#: modules/elementor/widgets/products-carousel-1.php:195
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:163
+#: modules/elementor/widgets/products-carousel-category-with-image.php:188
+#: modules/elementor/widgets/products-carousel-category-with-image.php:282
+#: modules/elementor/widgets/products-carousel-tabs-1.php:184
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:252
+#: modules/elementor/widgets/products-carousel-tabs.php:160
+#: modules/elementor/widgets/products-carousel-with-timer.php:228
+#: modules/elementor/widgets/products-carousel.php:172
+#: modules/elementor/widgets/products-category-with-image.php:196
+#: modules/elementor/widgets/products-category-with-image.php:290
+#: modules/elementor/widgets/products-list-block.php:215
+#: modules/elementor/widgets/products-one-two-block.php:165
+#: modules/elementor/widgets/products-tabs-element.php:145
+#: modules/elementor/widgets/products-with-category-image.php:196
+#: modules/elementor/widgets/products-with-category-image.php:290
+#: modules/elementor/widgets/products-with-category-image.php:353
+#: modules/elementor/widgets/two-row-products.php:216
+msgid "Enter slug separate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:256
+#: modules/elementor/widgets/deals-products-carousel.php:221
+#: modules/elementor/widgets/mobile-product-deals-block.php:209
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:179
+#: modules/elementor/widgets/products-2-1-2-block.php:176
+#: modules/elementor/widgets/products-6-1-block.php:176
+#: modules/elementor/widgets/products-6-1-with-categories.php:176
+#: modules/elementor/widgets/products-cards-carousel.php:241
+#: modules/elementor/widgets/products-carousel-1.php:202
+#: modules/elementor/widgets/products-carousel-category-with-image.php:195
+#: modules/elementor/widgets/products-carousel-tabs-1.php:188
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:259
+#: modules/elementor/widgets/products-carousel-tabs.php:164
+#: modules/elementor/widgets/products-carousel-with-timer.php:235
+#: modules/elementor/widgets/products-category-with-image.php:203
+#: modules/elementor/widgets/products-list-block.php:222
+#: modules/elementor/widgets/products-with-category-image.php:203
+#: modules/elementor/widgets/two-row-products.php:223
+#: modules/js_composer/config/map.php:294
+#: modules/js_composer/config/map.php:814
+#: modules/js_composer/config/map.php:1146
+#: modules/js_composer/config/map.php:1332
+#: modules/js_composer/config/map.php:1508
+#: modules/js_composer/config/map.php:1756
+#: modules/js_composer/config/map.php:1970
+#: modules/js_composer/config/map.php:2604
+#: modules/js_composer/config/map.php:2852
+#: modules/js_composer/config/map.php:2976
+#: modules/js_composer/config/map.php:3218
+#: modules/js_composer/config/map.php:3377
+#: modules/js_composer/config/map.php:3536
+#: modules/js_composer/config/map.php:3814
+#: modules/js_composer/config/map.php:4278
+#: modules/js_composer/config/map.php:4538
+#: modules/js_composer/config/map.php:4748
+#: modules/js_composer/config/map.php:4933
+#: modules/js_composer/config/map.php:5179
+#: modules/js_composer/config/map.php:5547
+#: modules/js_composer/config/map.php:5819
+#: modules/js_composer/config/map.php:6040
+#: modules/js_composer/config/map.php:6392
+msgid "Category Operator"
+msgstr ""
+
+#: modules/elementor/widgets/deal-and-product-tabs.php:258
+#: modules/elementor/widgets/deal-products-block.php:194
+#: modules/elementor/widgets/deals-products-carousel.php:223
+#: modules/elementor/widgets/mobile-product-deals-block.php:211
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:181
+#: modules/elementor/widgets/products-cards-carousel.php:243
+#: modules/elementor/widgets/products-carousel-1.php:204
+#: modules/elementor/widgets/products-carousel-category-with-image.php:197
+#: modules/elementor/widgets/products-carousel-tabs-1.php:190
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:261
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:289
+#: modules/elementor/widgets/products-carousel-tabs.php:166
+#: modules/elementor/widgets/products-carousel-with-timer.php:237
+#: modules/elementor/widgets/products-category-with-image.php:205
+#: modules/elementor/widgets/products-list-block.php:224
+#: modules/elementor/widgets/products-one-two-block.php:174
+#: modules/elementor/widgets/products-with-category-image.php:205
+#: modules/elementor/widgets/two-row-products.php:225
+#: modules/js_composer/config/map.php:296
+#: modules/js_composer/config/map.php:816
+#: modules/js_composer/config/map.php:1148
+#: modules/js_composer/config/map.php:1334
+#: modules/js_composer/config/map.php:1510
+#: modules/js_composer/config/map.php:1758
+#: modules/js_composer/config/map.php:1972
+#: modules/js_composer/config/map.php:2606
+#: modules/js_composer/config/map.php:2854
+#: modules/js_composer/config/map.php:2978
+#: modules/js_composer/config/map.php:3220
+#: modules/js_composer/config/map.php:3379
+#: modules/js_composer/config/map.php:3538
+#: modules/js_composer/config/map.php:3816
+#: modules/js_composer/config/map.php:4280
+#: modules/js_composer/config/map.php:4540
+#: modules/js_composer/config/map.php:4750
+#: modules/js_composer/config/map.php:4935
+#: modules/js_composer/config/map.php:5181
+#: modules/js_composer/config/map.php:5549
+#: modules/js_composer/config/map.php:5821
+#: modules/js_composer/config/map.php:6042
+#: modules/js_composer/config/map.php:6394
+msgid "Operator to compare categories. Possible values are 'IN', 'NOT IN', 'AND'."
+msgstr ""
+
+#: modules/elementor/widgets/deal-products-block.php:43
+#: modules/js_composer/config/map.php:2761
+msgid "Deals Products Block"
+msgstr ""
+
+#: modules/elementor/widgets/deal-products-block.php:95
+#: modules/elementor/widgets/product-categories-block.php:95
+#: modules/elementor/widgets/product-categories-list-with-header.php:95
+#: modules/elementor/widgets/product-list-categories.php:95
+#: modules/elementor/widgets/products-6-1-block.php:95
+#: modules/elementor/widgets/products-6-1-with-categories.php:95
+#: modules/elementor/widgets/products-cards-carousel.php:95
+#: modules/elementor/widgets/products-list-block.php:95
+#: modules/elementor/widgets/products-one-two-block.php:95
+#: modules/js_composer/config/map.php:2461
+msgid "Enter Title"
+msgstr ""
+
+#: modules/elementor/widgets/deal-products-block.php:161
+#: modules/elementor/widgets/products-carousel-category-with-image.php:164
+#: modules/elementor/widgets/products-category-with-image.php:172
+#: modules/elementor/widgets/products-one-two-block.php:141
+#: modules/elementor/widgets/products-with-category-image.php:172
+msgid "Products Choice"
+msgstr ""
+
+#: modules/elementor/widgets/deal-products-block.php:185
+msgid "Enter the category."
+msgstr ""
+
+#: modules/elementor/widgets/deal-products-block.php:192
+#: modules/elementor/widgets/products-one-two-block.php:172
+msgid "Category Opeartor"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:42
+msgid "Deal Products Carousel"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:94
+#: modules/js_composer/config/map.php:4831
+msgid "Enter deal header title"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:97
+#: modules/elementor/widgets/product-categories-menu-list.php:98
+#: modules/elementor/widgets/products-carousel-1.php:98
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:195
+#: modules/elementor/widgets/products-carousel-with-timer.php:98
+#: modules/elementor/widgets/products-carousel.php:98
+#: modules/elementor/widgets/two-row-products.php:98
+msgid "Enter your title here"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:105
+#: modules/elementor/widgets/mobile-product-deals-block.php:104
+#: modules/js_composer/config/map.php:1869
+#: modules/js_composer/config/map.php:4839
+#: modules/js_composer/config/map.php:6305
+msgid "Show Header Timer"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:117
+#: modules/elementor/widgets/mobile-product-deals-block.php:116
+#: modules/elementor/widgets/products-carousel-with-timer.php:128
+#: modules/js_composer/config/map.php:1885
+#: modules/js_composer/config/map.php:4848
+#: modules/js_composer/config/map.php:6314
+msgid "Timer Value"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:126
+#: modules/elementor/widgets/mobile-product-deals-block.php:125
+#: modules/elementor/widgets/products-carousel-with-timer.php:117
+#: modules/js_composer/config/map.php:1878
+#: modules/js_composer/config/map.php:4855
+#: modules/js_composer/config/map.php:6321
+msgid "Timer Title"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:137
+#: modules/js_composer/config/map.php:4862
+msgid "Deal Percentage value"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:147
+#: modules/elementor/widgets/mobile-product-deals-block.php:134
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:104
+#: modules/elementor/widgets/products-carousel-1.php:121
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:95
+#: modules/elementor/widgets/products-carousel-category-with-image.php:104
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:199
+#: modules/elementor/widgets/products-carousel-with-timer.php:155
+#: modules/elementor/widgets/products-carousel.php:106
+#: modules/elementor/widgets/products-category-with-image.php:104
+#: modules/elementor/widgets/products-list-block.php:132
+#: modules/elementor/widgets/products-with-category-image.php:104
+#: modules/elementor/widgets/two-row-products.php:121
+msgid "Shortcode Tags"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:165
+#: modules/elementor/widgets/mobile-product-deals-block.php:152
+#: modules/elementor/widgets/products-carousel-1.php:139
+#: modules/elementor/widgets/products-carousel-with-timer.php:173
+#: modules/elementor/widgets/two-row-products.php:140
+#: modules/js_composer/config/map.php:245
+#: modules/js_composer/config/map.php:1460
+#: modules/js_composer/config/map.php:1708
+#: modules/js_composer/config/map.php:1922
+#: modules/js_composer/config/map.php:4885
+#: modules/js_composer/config/map.php:6344
+msgid "Number of products to display"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:174
+#: modules/elementor/widgets/mobile-product-deals-block.php:161
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:122
+#: modules/elementor/widgets/products-carousel-1.php:148
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:113
+#: modules/elementor/widgets/products-carousel-category-with-image.php:144
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:215
+#: modules/elementor/widgets/products-carousel-with-timer.php:182
+#: modules/elementor/widgets/products-carousel.php:133
+#: modules/elementor/widgets/products-category-with-image.php:152
+#: modules/elementor/widgets/products-list-block.php:150
+#: modules/elementor/widgets/products-with-category-image.php:152
+#: modules/elementor/widgets/two-row-products.php:169
+msgid "Orderby"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:196
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:154
+msgid "Enter the product choice."
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:203
+#: modules/elementor/widgets/mobile-product-deals-block.php:191
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:161
+#: modules/elementor/widgets/products-carousel-1.php:184
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:149
+#: modules/elementor/widgets/products-carousel-category-with-image.php:177
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:176
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:241
+#: modules/elementor/widgets/products-carousel-with-timer.php:217
+#: modules/elementor/widgets/products-carousel.php:161
+#: modules/elementor/widgets/products-category-with-image.php:185
+#: modules/elementor/widgets/products-with-category-image.php:185
+#: modules/elementor/widgets/two-row-products.php:205
+msgid "Product id or SKUs"
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:214
+#: modules/elementor/widgets/mobile-product-deals-block.php:202
+#: modules/elementor/widgets/products-2-1-2-block.php:169
+msgid "Enter category separate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/deals-products-carousel.php:303
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:321
+#: modules/elementor/widgets/product-onsale-carousel.php:262
+#: modules/elementor/widgets/products-carousel-1.php:260
+#: modules/elementor/widgets/products-carousel-with-timer.php:290
+#: modules/elementor/widgets/products-carousel.php:304
+#: modules/js_composer/config/map.php:1637
+#: modules/js_composer/config/map.php:1793
+#: modules/js_composer/config/map.php:2007
+#: modules/js_composer/config/map.php:4172
+#: modules/js_composer/config/map.php:4381
+#: modules/js_composer/config/map.php:5011
+msgid "Carousel: Margin"
+msgstr ""
+
+#: modules/elementor/widgets/feature-block.php:43
+msgid "Features Block"
+msgstr ""
+
+#: modules/elementor/widgets/feature-block.php:95
+#: modules/js_composer/config/map.php:479
+msgid "Feature Block"
+msgstr ""
+
+#: modules/elementor/widgets/feature-block.php:100
+msgid "Icon"
+msgstr ""
+
+#: modules/elementor/widgets/feature-block.php:105
+msgid "Text"
+msgstr ""
+
+#: modules/elementor/widgets/jumbotron.php:43
+#: modules/js_composer/config/map.php:544
+msgid "Jumbotron"
+msgstr ""
+
+#: modules/elementor/widgets/jumbotron.php:103
+#: modules/js_composer/config/map.php:557
+msgid "Sub Title"
+msgstr ""
+
+#: modules/elementor/widgets/mobile-product-deals-block.php:43
+#: modules/js_composer/config/map.php:6286
+msgid "Electro Mobile Deals Product"
+msgstr ""
+
+#: modules/elementor/widgets/mobile-product-deals-block.php:95
+#: modules/js_composer/config/map.php:6297
+msgid "Enter header title"
+msgstr ""
+
+#: modules/elementor/widgets/mobile-product-deals-block.php:184
+msgid ""
+"Enter product choice separate by comma(,) Note: Only works with Category "
+"Shortcode."
+msgstr ""
+
+#: modules/elementor/widgets/nav-menu.php:43
+msgid "Nav menu"
+msgstr ""
+
+#: modules/elementor/widgets/nav-menu.php:87
+#: modules/elementor/widgets/vertical-nav-menu.php:87
+#: modules/js_composer/config/map.php:14
+msgid "Select a menu"
+msgstr ""
+
+#: modules/elementor/widgets/nav-menu.php:106
+#: modules/elementor/widgets/vertical-nav-menu.php:106
+#: modules/js_composer/config/map.php:5326
+#: modules/js_composer/config/map.php:6088
+msgid "Enter the title of menu."
+msgstr ""
+
+#: modules/elementor/widgets/nav-menu.php:116
+#: modules/elementor/widgets/vertical-nav-menu.php:136
+#: modules/js_composer/config/map.php:5331
+#: modules/js_composer/config/map.php:6103
+msgid "Menu"
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:43
+msgid "Products Carousel with Category Tabs"
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:134
+#: modules/elementor/widgets/products-carousel-tabs-1.php:161
+#: modules/elementor/widgets/products-carousel-tabs.php:137
+#: modules/elementor/widgets/products-tabs-element.php:158
+#: modules/js_composer/config/map.php:783
+#: modules/js_composer/config/map.php:1115
+#: modules/js_composer/config/map.php:2573
+#: modules/js_composer/config/map.php:4717
+#: modules/js_composer/config/map.php:5148
+msgid "Enter order."
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:163
+msgid "Enter the product id."
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:172
+msgid "Enter category."
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:189
+#: modules/elementor/widgets/products-6-1-with-categories.php:233
+#: modules/elementor/widgets/products-carousel-category-with-image.php:214
+#: modules/elementor/widgets/products-category-with-image.php:222
+#: modules/elementor/widgets/products-list-block.php:232
+#: modules/elementor/widgets/products-with-category-image.php:222
+#: modules/js_composer/config/map.php:3608
+#: modules/js_composer/config/map.php:3852
+#: modules/js_composer/config/map.php:4309
+#: modules/js_composer/config/map.php:4569
+#: modules/js_composer/config/map.php:5403
+#: modules/js_composer/config/map.php:5664
+msgid "Enable Header Categories"
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:191
+#: modules/elementor/widgets/products-carousel-category-with-image.php:216
+#: modules/elementor/widgets/products-category-with-image.php:224
+#: modules/elementor/widgets/products-list-block.php:234
+#: modules/elementor/widgets/products-with-category-image.php:224
+#: modules/js_composer/config/map.php:3609
+#: modules/js_composer/config/map.php:3853
+#: modules/js_composer/config/map.php:4310
+#: modules/js_composer/config/map.php:4570
+#: modules/js_composer/config/map.php:5404
+#: modules/js_composer/config/map.php:5665
+msgid "Show Categories list on header block."
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:202
+#: modules/elementor/widgets/products-6-1-with-categories.php:225
+#: modules/elementor/widgets/products-carousel-category-with-image.php:205
+#: modules/elementor/widgets/products-category-with-image.php:213
+#: modules/elementor/widgets/products-list-block.php:245
+#: modules/elementor/widgets/products-with-category-image.php:213
+#: modules/js_composer/config/map.php:3600
+#: modules/js_composer/config/map.php:3844
+#: modules/js_composer/config/map.php:4318
+#: modules/js_composer/config/map.php:4578
+#: modules/js_composer/config/map.php:5412
+#: modules/js_composer/config/map.php:5673
+msgid "Enter categories title"
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:210
+#: modules/elementor/widgets/product-categories-block.php:113
+#: modules/elementor/widgets/product-categories-list-with-header.php:141
+#: modules/elementor/widgets/product-categories-list.php:104
+#: modules/elementor/widgets/product-categories-menu-list.php:117
+#: modules/elementor/widgets/product-list-categories.php:104
+#: modules/elementor/widgets/products-2-1-2-block.php:185
+#: modules/elementor/widgets/products-6-1-block.php:184
+#: modules/elementor/widgets/products-6-1-with-categories.php:245
+#: modules/elementor/widgets/products-cards-carousel.php:263
+#: modules/elementor/widgets/products-carousel-category-with-image.php:227
+#: modules/elementor/widgets/products-category-with-image.php:235
+#: modules/elementor/widgets/products-with-category-image.php:235
+#: modules/js_composer/config/map.php:1371
+#: modules/js_composer/config/map.php:2171
+#: modules/js_composer/config/map.php:2248
+#: modules/js_composer/config/map.php:2332
+#: modules/js_composer/config/map.php:2701
+#: modules/js_composer/config/map.php:3072
+#: modules/js_composer/config/map.php:3248
+#: modules/js_composer/config/map.php:3407
+#: modules/js_composer/config/map.php:3617
+#: modules/js_composer/config/map.php:3861
+#: modules/js_composer/config/map.php:4325
+#: modules/js_composer/config/map.php:4585
+#: modules/js_composer/config/map.php:5419
+#: modules/js_composer/config/map.php:5680
+#: modules/js_composer/config/map.php:6445
+msgid "Number of Categories to display"
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:220
+#: modules/elementor/widgets/product-categories-block.php:128
+#: modules/elementor/widgets/product-categories-list-with-header.php:156
+#: modules/elementor/widgets/product-categories-list.php:120
+#: modules/elementor/widgets/product-categories-menu-list.php:125
+#: modules/elementor/widgets/product-list-categories.php:119
+#: modules/elementor/widgets/products-2-1-2-block.php:200
+#: modules/elementor/widgets/products-6-1-block.php:199
+#: modules/elementor/widgets/products-6-1-with-categories.php:260
+#: modules/elementor/widgets/products-6-1-with-categories.php:320
+#: modules/elementor/widgets/products-carousel-category-with-image.php:238
+#: modules/elementor/widgets/products-category-with-image.php:246
+#: modules/elementor/widgets/products-list-block.php:263
+#: modules/elementor/widgets/products-with-category-image.php:246
+#: modules/js_composer/config/map.php:1380
+#: modules/js_composer/config/map.php:2180
+#: modules/js_composer/config/map.php:2257
+#: modules/js_composer/config/map.php:2341
+#: modules/js_composer/config/map.php:2710
+#: modules/js_composer/config/map.php:3081
+#: modules/js_composer/config/map.php:3257
+#: modules/js_composer/config/map.php:3416
+#: modules/js_composer/config/map.php:3626
+#: modules/js_composer/config/map.php:3673
+#: modules/js_composer/config/map.php:3870
+#: modules/js_composer/config/map.php:3917
+#: modules/js_composer/config/map.php:4334
+#: modules/js_composer/config/map.php:4594
+#: modules/js_composer/config/map.php:5280
+#: modules/js_composer/config/map.php:5428
+#: modules/js_composer/config/map.php:5689
+#: modules/js_composer/config/map.php:6454
+#: modules/js_composer/config/map.php:6517
+#: modules/js_composer/config/map.php:6710
+#: modules/js_composer/config/map.php:6766
+msgid "Show Categories does not have products"
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:254
+msgid "Enter category include separate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/product-carousel-with-category-tabs.php:262
+#: modules/elementor/widgets/product-categories-block.php:155
+#: modules/elementor/widgets/product-categories-list-with-header.php:183
+#: modules/elementor/widgets/product-categories-list.php:147
+#: modules/elementor/widgets/product-categories-menu-list.php:149
+#: modules/elementor/widgets/product-list-categories.php:146
+#: modules/elementor/widgets/products-2-1-2-block.php:235
+#: modules/elementor/widgets/products-6-1-block.php:234
+#: modules/elementor/widgets/products-6-1-with-categories.php:295
+#: modules/elementor/widgets/products-cards-carousel.php:312
+#: modules/elementor/widgets/products-carousel-category-with-image.php:280
+#: modules/elementor/widgets/products-category-with-image.php:288
+#: modules/elementor/widgets/products-with-category-image.php:288
+#: modules/elementor/widgets/products-with-category-image.php:351
+#: modules/js_composer/config/map.php:1411
+#: modules/js_composer/config/map.php:2204
+#: modules/js_composer/config/map.php:2281
+#: modules/js_composer/config/map.php:2365
+#: modules/js_composer/config/map.php:2734
+#: modules/js_composer/config/map.php:3105
+#: modules/js_composer/config/map.php:3288
+#: modules/js_composer/config/map.php:3447
+#: modules/js_composer/config/map.php:3657
+#: modules/js_composer/config/map.php:3704
+#: modules/js_composer/config/map.php:3901
+#: modules/js_composer/config/map.php:3948
+#: modules/js_composer/config/map.php:4366
+#: modules/js_composer/config/map.php:4626
+#: modules/js_composer/config/map.php:5459
+#: modules/js_composer/config/map.php:5720
+#: modules/js_composer/config/map.php:6478
+#: modules/js_composer/config/map.php:6541
+msgid "Include slug's"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-block.php:43
+#: modules/js_composer/config/map.php:2224
+msgid "Product Categories Block"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-block.php:104
+#: modules/elementor/widgets/product-categories-list-with-header.php:133
+#: modules/elementor/widgets/product-categories-list.php:95
+#: modules/js_composer/config/map.php:2241
+#: modules/js_composer/config/map.php:2694
+#: modules/js_composer/config/map.php:3065
+msgid "Enter Columns"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-block.php:137
+#: modules/elementor/widgets/product-categories-list-with-header.php:165
+#: modules/elementor/widgets/product-categories-list.php:129
+#: modules/elementor/widgets/product-list-categories.php:128
+#: modules/js_composer/config/map.php:2190
+#: modules/js_composer/config/map.php:2267
+#: modules/js_composer/config/map.php:2351
+#: modules/js_composer/config/map.php:2720
+#: modules/js_composer/config/map.php:3091
+#: modules/js_composer/config/map.php:6464
+#: modules/js_composer/config/map.php:6527
+msgid ""
+" Sort retrieved posts by parameter. Defaults to 'name'. One or more options "
+"can be passed"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-block.php:147
+#: modules/elementor/widgets/product-categories-list-with-header.php:175
+#: modules/elementor/widgets/product-categories-list.php:139
+#: modules/elementor/widgets/product-list-categories.php:138
+#: modules/js_composer/config/map.php:2198
+#: modules/js_composer/config/map.php:2275
+#: modules/js_composer/config/map.php:2359
+#: modules/js_composer/config/map.php:2728
+#: modules/js_composer/config/map.php:3099
+#: modules/js_composer/config/map.php:6472
+#: modules/js_composer/config/map.php:6535
+msgid ""
+"Designates the ascending or descending order of the 'orderby' parameter. "
+"Defaults to 'ASC'."
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-block.php:171
+#: modules/js_composer/config/map.php:2295
+msgid "Enable Fullwidth"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-list-with-header.php:43
+msgid "Products Categories List With Header Image"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-list-with-header.php:103
+msgid "Sub title"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-list-with-header.php:111
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:173
+#: modules/js_composer/config/map.php:222
+#: modules/js_composer/config/map.php:3049
+msgid "Background Image"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-list-with-header.php:120
+#: modules/js_composer/config/map.php:3056
+msgid "Enable Header"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-list-with-header.php:126
+#: modules/js_composer/config/map.php:3057
+msgid "Show header block."
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-list-with-header.php:199
+#: modules/js_composer/config/map.php:3119
+msgid "Header Version"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-list-with-header.php:202
+#: modules/js_composer/config/map.php:3122
+msgid "Type 1"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-list-with-header.php:203
+#: modules/js_composer/config/map.php:3123
+msgid "Type 2"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-list.php:43
+#: modules/js_composer/config/map.php:2684
+msgid "Product Categories List"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-menu-list.php:43
+#: modules/elementor/widgets/product-categories-menu-list.php:105
+msgid "Product List Categories Menu"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-menu-list.php:95
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:95
+#: modules/elementor/widgets/recent-viewed-products.php:95
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:95
+#: modules/js_composer/config/map.php:5231
+#: modules/js_composer/config/map.php:5352
+msgid "Section Title"
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-menu-list.php:151
+#: modules/elementor/widgets/product-list-categories.php:148
+msgid "Enter the slugs seperate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/product-categories-menu-list.php:157
+#: modules/elementor/widgets/product-list-categories.php:157
+msgid "Enter the id seperate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/product-list-categories.php:43
+msgid "Product List Categories "
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale-carousel.php:43
+msgid "Onsale Product Carousel"
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale-carousel.php:139
+#: modules/elementor/widgets/product-onsale.php:139
+#: modules/js_composer/config/map.php:4079
+#: modules/js_composer/config/map.php:6580
+msgid "Number of Products to display"
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale-carousel.php:166
+#: modules/elementor/widgets/product-onsale.php:166
+msgid "Enter the product id seperate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale-carousel.php:173
+#: modules/elementor/widgets/products-carousel.php:179
+#: modules/js_composer/config/map.php:1539
+#: modules/js_composer/config/map.php:4105
+msgid "Show Custom Navigation"
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale-carousel.php:185
+#: modules/js_composer/config/map.php:4114
+msgid "Show Progress"
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale-carousel.php:197
+#: modules/elementor/widgets/products-carousel-with-timer.php:105
+#: modules/js_composer/config/map.php:4123
+#: modules/js_composer/config/map.php:6606
+msgid "Show Timer"
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale-carousel.php:209
+#: modules/js_composer/config/map.php:4132
+msgid "Show Cart Button"
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale-carousel.php:245
+#: modules/elementor/widgets/products-carousel-tabs-1.php:261
+#: modules/js_composer/config/map.php:1623
+#: modules/js_composer/config/map.php:4158
+#: modules/js_composer/config/map.php:4997
+msgid "Carousel: Nav Next Text"
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale-carousel.php:253
+#: modules/elementor/widgets/products-carousel-tabs-1.php:269
+#: modules/js_composer/config/map.php:1630
+#: modules/js_composer/config/map.php:4165
+#: modules/js_composer/config/map.php:5004
+msgid "Carousel: Nav Prev Text"
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale.php:43
+msgid "Onsale Product"
+msgstr ""
+
+#: modules/elementor/widgets/product-onsale.php:141
+msgid "Enter the number of products to display"
+msgstr ""
+
+#: modules/elementor/widgets/products-2-1-2-block.php:43
+msgid "Electro Products 2-1-2 Block"
+msgstr ""
+
+#: modules/elementor/widgets/products-2-1-2-block.php:97
+msgid "Enter the Tilte"
+msgstr ""
+
+#: modules/elementor/widgets/products-2-1-2-block.php:104
+#: modules/elementor/widgets/products-6-1-block.php:104
+#: modules/elementor/widgets/products-6-1-with-categories.php:104
+msgid "Shortcode Tag"
+msgstr ""
+
+#: modules/elementor/widgets/products-2-1-2-block.php:178
+msgid "Enter the categgory operator seperate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/products-2-1-2-block.php:187
+#: modules/elementor/widgets/products-6-1-with-categories.php:247
+msgid "Enter the category limit."
+msgstr ""
+
+#: modules/elementor/widgets/products-2-1-2-block.php:219
+#: modules/elementor/widgets/products-6-1-block.php:218
+msgid "Enter category order."
+msgstr ""
+
+#: modules/elementor/widgets/products-2-1-2-block.php:228
+msgid "Enter the id separate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/products-2-1-2-block.php:237
+msgid "Enter the slug separate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-block.php:43
+msgid "Products 6-1 Block"
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-block.php:97
+#: modules/elementor/widgets/products-6-1-with-categories.php:97
+msgid "Enter the title."
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-block.php:227
+#: modules/elementor/widgets/products-6-1-with-categories.php:288
+#: modules/elementor/widgets/products-6-1-with-categories.php:350
+#: modules/elementor/widgets/products-cards-carousel.php:305
+msgid "Enter term id separate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-block.php:236
+#: modules/elementor/widgets/products-6-1-with-categories.php:279
+#: modules/elementor/widgets/products-6-1-with-categories.php:359
+#: modules/elementor/widgets/products-cards-carousel.php:275
+#: modules/elementor/widgets/products-cards-carousel.php:296
+msgid "Enter term slug separate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-with-categories.php:43
+msgid "Products 6-1 With Categories"
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-with-categories.php:184
+#: modules/js_composer/config/map.php:3566
+msgid "Featured Product Shortcode"
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-with-categories.php:202
+#: modules/js_composer/config/map.php:3581
+msgid "Featured Product Choice"
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-with-categories.php:216
+#: modules/js_composer/config/map.php:3593
+msgid "Featured Product ID"
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-with-categories.php:218
+#: modules/js_composer/config/map.php:3595
+msgid "Enter ID/SKU. Only for Products Shortcode."
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-with-categories.php:304
+#: modules/elementor/widgets/products-with-category-image.php:298
+#: modules/js_composer/config/map.php:3664
+#: modules/js_composer/config/map.php:3908
+msgid "Number of Vertical Categories to display"
+msgstr ""
+
+#: modules/elementor/widgets/products-6-1-with-categories.php:357
+#: modules/elementor/widgets/products-list-block.php:303
+msgid "Include Slug's"
+msgstr ""
+
+#: modules/elementor/widgets/products-cards-carousel.php:43
+msgid "Products Cards Carousel Block"
+msgstr ""
+
+#: modules/elementor/widgets/products-cards-carousel.php:105
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:312
+#: modules/js_composer/config/map.php:1218
+#: modules/js_composer/config/map.php:2644
+msgid "Rows"
+msgstr ""
+
+#: modules/elementor/widgets/products-cards-carousel.php:107
+msgid "Enter the number of rows."
+msgstr ""
+
+#: modules/elementor/widgets/products-cards-carousel.php:117
+#: modules/elementor/widgets/products-cards-carousel.php:127
+msgid "Enter the number of columns."
+msgstr ""
+
+#: modules/elementor/widgets/products-cards-carousel.php:125
+#: modules/elementor/widgets/products-carousel.php:193
+#: modules/elementor/widgets/products-with-category-image.php:142
+#: modules/js_composer/config/map.php:1232
+#: modules/js_composer/config/map.php:1547
+#: modules/js_composer/config/map.php:3766
+msgid "Products Wide Layout Columns"
+msgstr ""
+
+#: modules/elementor/widgets/products-cards-carousel.php:135
+#: modules/js_composer/config/map.php:1250
+msgid "Show Top Text"
+msgstr ""
+
+#: modules/elementor/widgets/products-cards-carousel.php:147
+#: modules/js_composer/config/map.php:1259
+msgid "Show Categories"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-1.php:43
+msgid "Products Carousel 1"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-1.php:269
+#: modules/elementor/widgets/products-carousel-tabs-1.php:249
+#: modules/elementor/widgets/products-carousel-with-timer.php:299
+#: modules/js_composer/config/map.php:367
+#: modules/js_composer/config/map.php:1597
+#: modules/js_composer/config/map.php:1801
+#: modules/js_composer/config/map.php:2015
+#: modules/js_composer/config/map.php:4389
+#: modules/js_composer/config/map.php:4788
+#: modules/js_composer/config/map.php:4971
+#: modules/js_composer/config/map.php:6828
+msgid "Carousel: Show Navigation"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-1.php:282
+#: modules/elementor/widgets/products-carousel-category-with-image.php:353
+#: modules/elementor/widgets/products-carousel-with-timer.php:312
+msgid "Carousel:Show Dots"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:43
+msgid "Products Carousel Banner Vertical Tabs"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:115
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:217
+#: modules/elementor/widgets/products-carousel.php:135
+msgid "Enter Orderby"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:125
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:224
+#: modules/elementor/widgets/products-carousel.php:144
+msgid "Enter Order"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:190
+msgid "Banner Tabs"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:195
+#: modules/js_composer/config/map.php:179
+#: modules/js_composer/config/map.php:186
+msgid "Tab Title"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:197
+msgid "Enter your tab title here"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:201
+msgid "Banner Title"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:203
+msgid "Enter your banner title here"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:207
+msgid "Banner Subtitle"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:209
+msgid "Enter your banner subtitle here"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:218
+#: modules/js_composer/config/map.php:200
+msgid "Banner Action Text"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:220
+msgid "Enter your banner text here"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:226
+msgid "Enter your banner link here"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:285
+#: modules/elementor/widgets/products-carousel.php:257
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:161
+#: modules/js_composer/config/map.php:1589
+msgid "Carousel: Items(1200 - 1429)"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-banner-vertical-tabs.php:333
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:209
+msgid "Enter the Additional Class."
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-category-with-image.php:43
+msgid "Products Carousel Categories and Image"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-category-with-image.php:124
+#: modules/elementor/widgets/products-category-with-image.php:124
+#: modules/elementor/widgets/products-with-category-image.php:124
+msgid "Enter limit of the products."
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-category-with-image.php:132
+msgid "Enale product description "
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-category-with-image.php:272
+#: modules/elementor/widgets/products-category-with-image.php:280
+#: modules/elementor/widgets/products-with-category-image.php:280
+#: modules/elementor/widgets/products-with-category-image.php:343
+msgid "Enter id separate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-category-with-image.php:297
+#: modules/elementor/widgets/products-category-with-image.php:305
+#: modules/elementor/widgets/products-with-category-image.php:368
+#: modules/js_composer/config/map.php:3961
+#: modules/js_composer/config/map.php:5472
+#: modules/js_composer/config/map.php:5733
+msgid "Image Action Link"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs-1.php:43
+msgid "Product Tabs Carousel 1"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs-1.php:119
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:188
+#: modules/js_composer/config/map.php:174
+#: modules/js_composer/config/map.php:723
+#: modules/js_composer/config/map.php:1069
+#: modules/js_composer/config/map.php:2534
+#: modules/js_composer/config/map.php:4671
+#: modules/js_composer/config/map.php:5089
+msgid "Tabs"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs-1.php:124
+#: modules/elementor/widgets/products-carousel-tabs.php:100
+#: modules/elementor/widgets/products-tabs-element.php:100
+msgid "title"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:43
+msgid "Products Carousel Tabs With Deal"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:121
+msgid "Deals Title"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:208
+#: modules/js_composer/config/map.php:239
+#: modules/js_composer/config/map.php:746
+#: modules/js_composer/config/map.php:1092
+#: modules/js_composer/config/map.php:1285
+#: modules/js_composer/config/map.php:1454
+#: modules/js_composer/config/map.php:1702
+#: modules/js_composer/config/map.php:1916
+#: modules/js_composer/config/map.php:2557
+#: modules/js_composer/config/map.php:2789
+#: modules/js_composer/config/map.php:2929
+#: modules/js_composer/config/map.php:3171
+#: modules/js_composer/config/map.php:3330
+#: modules/js_composer/config/map.php:3489
+#: modules/js_composer/config/map.php:3746
+#: modules/js_composer/config/map.php:4223
+#: modules/js_composer/config/map.php:4483
+#: modules/js_composer/config/map.php:4694
+#: modules/js_composer/config/map.php:4879
+#: modules/js_composer/config/map.php:5112
+#: modules/js_composer/config/map.php:5490
+#: modules/js_composer/config/map.php:5751
+#: modules/js_composer/config/map.php:5970
+#: modules/js_composer/config/map.php:6338
+msgid "Product Attribute"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:269
+#: modules/js_composer/config/map.php:302
+#: modules/js_composer/config/map.php:822
+#: modules/js_composer/config/map.php:1154
+#: modules/js_composer/config/map.php:1340
+#: modules/js_composer/config/map.php:1516
+#: modules/js_composer/config/map.php:1764
+#: modules/js_composer/config/map.php:1978
+#: modules/js_composer/config/map.php:2612
+#: modules/js_composer/config/map.php:2860
+#: modules/js_composer/config/map.php:2984
+#: modules/js_composer/config/map.php:3226
+#: modules/js_composer/config/map.php:3385
+#: modules/js_composer/config/map.php:3544
+#: modules/js_composer/config/map.php:3822
+#: modules/js_composer/config/map.php:4286
+#: modules/js_composer/config/map.php:4546
+#: modules/js_composer/config/map.php:4756
+#: modules/js_composer/config/map.php:4941
+#: modules/js_composer/config/map.php:5187
+#: modules/js_composer/config/map.php:5555
+#: modules/js_composer/config/map.php:5827
+#: modules/js_composer/config/map.php:6048
+#: modules/js_composer/config/map.php:6400
+msgid "Attribute"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:271
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:280
+#: modules/js_composer/config/map.php:304
+#: modules/js_composer/config/map.php:824
+#: modules/js_composer/config/map.php:1156
+#: modules/js_composer/config/map.php:1342
+#: modules/js_composer/config/map.php:1518
+#: modules/js_composer/config/map.php:1766
+#: modules/js_composer/config/map.php:1980
+#: modules/js_composer/config/map.php:2614
+#: modules/js_composer/config/map.php:2862
+#: modules/js_composer/config/map.php:2986
+#: modules/js_composer/config/map.php:3228
+#: modules/js_composer/config/map.php:3387
+#: modules/js_composer/config/map.php:3546
+#: modules/js_composer/config/map.php:3824
+#: modules/js_composer/config/map.php:4288
+#: modules/js_composer/config/map.php:4548
+#: modules/js_composer/config/map.php:4758
+#: modules/js_composer/config/map.php:4943
+#: modules/js_composer/config/map.php:5189
+#: modules/js_composer/config/map.php:5557
+#: modules/js_composer/config/map.php:5829
+#: modules/js_composer/config/map.php:6050
+#: modules/js_composer/config/map.php:6402
+msgid "Enter single attribute slug."
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:278
+#: modules/js_composer/config/map.php:309
+#: modules/js_composer/config/map.php:829
+#: modules/js_composer/config/map.php:1161
+#: modules/js_composer/config/map.php:1347
+#: modules/js_composer/config/map.php:1523
+#: modules/js_composer/config/map.php:1771
+#: modules/js_composer/config/map.php:1985
+#: modules/js_composer/config/map.php:2619
+#: modules/js_composer/config/map.php:2867
+#: modules/js_composer/config/map.php:2991
+#: modules/js_composer/config/map.php:3233
+#: modules/js_composer/config/map.php:3392
+#: modules/js_composer/config/map.php:3551
+#: modules/js_composer/config/map.php:3829
+#: modules/js_composer/config/map.php:4293
+#: modules/js_composer/config/map.php:4553
+#: modules/js_composer/config/map.php:4763
+#: modules/js_composer/config/map.php:4948
+#: modules/js_composer/config/map.php:5194
+#: modules/js_composer/config/map.php:5562
+#: modules/js_composer/config/map.php:5834
+#: modules/js_composer/config/map.php:6055
+#: modules/js_composer/config/map.php:6407
+msgid "Terms"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs-with-deal.php:287
+#: modules/js_composer/config/map.php:316
+#: modules/js_composer/config/map.php:836
+#: modules/js_composer/config/map.php:1168
+#: modules/js_composer/config/map.php:1354
+#: modules/js_composer/config/map.php:1530
+#: modules/js_composer/config/map.php:1778
+#: modules/js_composer/config/map.php:1992
+#: modules/js_composer/config/map.php:2626
+#: modules/js_composer/config/map.php:2874
+#: modules/js_composer/config/map.php:2998
+#: modules/js_composer/config/map.php:3240
+#: modules/js_composer/config/map.php:3399
+#: modules/js_composer/config/map.php:3558
+#: modules/js_composer/config/map.php:3836
+#: modules/js_composer/config/map.php:4300
+#: modules/js_composer/config/map.php:4560
+#: modules/js_composer/config/map.php:4770
+#: modules/js_composer/config/map.php:4955
+#: modules/js_composer/config/map.php:5201
+#: modules/js_composer/config/map.php:5569
+#: modules/js_composer/config/map.php:5841
+#: modules/js_composer/config/map.php:6062
+#: modules/js_composer/config/map.php:6414
+msgid "Terms Operator"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs.php:43
+msgid "Product Tabs Carousel"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-tabs.php:225
+#: modules/js_composer/config/map.php:1028
+msgid "Carousel: Items(1200 - 1440)"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-with-timer.php:43
+msgid "Products Carousel With Timer"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-with-timer.php:120
+msgid "Enter your timer title here"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel-with-timer.php:131
+msgid "Enter your timer value here"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel.php:43
+msgid "Products Carousel"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel.php:126
+msgid "Enter id separate by comma(,) Note: Only works with Products Shortcode."
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel.php:154
+msgid "Enter product choice."
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel.php:185
+msgid "Custom navigation"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel.php:196
+#: modules/js_composer/config/map.php:1235
+#: modules/js_composer/config/map.php:1549
+#: modules/js_composer/config/map.php:3768
+#: modules/js_composer/config/map.php:5789
+#: modules/js_composer/config/map.php:6010
+msgid "Option only works if Wide Electro Layout enabled."
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel.php:267
+msgid "Show Dots"
+msgstr ""
+
+#: modules/elementor/widgets/products-carousel.php:292
+msgid "Autoplay"
+msgstr ""
+
+#: modules/elementor/widgets/products-category-with-image.php:43
+msgid "Products Categories Tabs and Image"
+msgstr ""
+
+#: modules/elementor/widgets/products-category-with-image.php:134
+#: modules/elementor/widgets/products-category-with-image.php:144
+#: modules/elementor/widgets/products-with-category-image.php:134
+#: modules/elementor/widgets/products-with-category-image.php:144
+msgid "Enter columns of the products."
+msgstr ""
+
+#: modules/elementor/widgets/products-category-with-image.php:142
+#: modules/elementor/widgets/products-tabs-element.php:136
+#: modules/elementor/widgets/two-row-products.php:159
+#: modules/js_composer/config/map.php:766
+#: modules/js_composer/config/map.php:5371
+#: modules/js_composer/config/map.php:5787
+#: modules/js_composer/config/map.php:6008
+msgid "Columns Wide"
+msgstr ""
+
+#: modules/elementor/widgets/products-category-with-image.php:313
+msgid "Section Class"
+msgstr ""
+
+#: modules/elementor/widgets/products-category-with-image.php:315
+msgid "Enter Class"
+msgstr ""
+
+#: modules/elementor/widgets/products-list-block.php:43
+msgid "Products List Block"
+msgstr ""
+
+#: modules/elementor/widgets/products-list-block.php:103
+#: modules/js_composer/config/map.php:4448
+msgid "Type"
+msgstr ""
+
+#: modules/elementor/widgets/products-list-block.php:107
+#: modules/js_composer/config/map.php:4451
+msgid "v1"
+msgstr ""
+
+#: modules/elementor/widgets/products-list-block.php:108
+#: modules/js_composer/config/map.php:4452
+msgid "v2"
+msgstr ""
+
+#: modules/elementor/widgets/products-list-block.php:206
+msgid "Enter IDs/SKsp separate by comma(,)."
+msgstr ""
+
+#: modules/elementor/widgets/products-list-block.php:253
+msgid "Category: Items"
+msgstr ""
+
+#: modules/elementor/widgets/products-list-block.php:296
+#: modules/js_composer/config/map.php:4360
+#: modules/js_composer/config/map.php:4620
+msgid "Enter IDs of Categories to display"
+msgstr ""
+
+#: modules/elementor/widgets/products-list-block.php:305
+#: modules/js_composer/config/map.php:4368
+#: modules/js_composer/config/map.php:4628
+msgid "Enter slug of Categories to display"
+msgstr ""
+
+#: modules/elementor/widgets/products-one-two-block.php:43
+#: modules/js_composer/config/map.php:2901
+msgid "Products 1-2 Block"
+msgstr ""
+
+#: modules/elementor/widgets/products-tabs-element.php:43
+#: modules/js_composer/config/map.php:574
+#: modules/js_composer/config/map.php:713
+msgid "Product Tabs"
+msgstr ""
+
+#: modules/elementor/widgets/products-tabs-element.php:138
+#: modules/js_composer/config/map.php:768
+#: modules/js_composer/config/map.php:5373
+msgid "Enter the number of columns wide to display."
+msgstr ""
+
+#: modules/elementor/widgets/products-with-category-image.php:43
+msgid "Products With Categories and Image"
+msgstr ""
+
+#: modules/elementor/widgets/recent-viewed-products.php:43
+msgid "Recent Vieved Products"
+msgstr ""
+
+#: modules/elementor/widgets/recently-viewed-products-carousel.php:43
+msgid "Recently Vieved Products Carousel"
+msgstr ""
+
+#: modules/elementor/widgets/slider-with-ads-block.php:43
+msgid "Slider With Ads Block"
+msgstr ""
+
+#: modules/elementor/widgets/slider-with-ads-block.php:85
+#: modules/js_composer/config/map.php:22
+msgid "No sliders found"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:43
+msgid "Team Member"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:94
+#: modules/js_composer/config/map.php:6126
+msgid "Full Name"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:96
+#: modules/js_composer/config/map.php:6128
+msgid "Enter team member full name"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:103
+#: modules/js_composer/config/map.php:6133
+msgid "Designation"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:105
+#: modules/js_composer/config/map.php:6135
+msgid "Enter designation of team member"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:112
+#: modules/js_composer/config/map.php:6139
+msgid "Profile Pic"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:120
+#: modules/js_composer/config/map.php:6144
+msgid "Display Style"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:123
+#: modules/js_composer/config/map.php:6146
+msgid "Square"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:124
+#: modules/js_composer/config/map.php:6147
+msgid "Circle"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:133
+#: modules/js_composer/config/map.php:6154
+msgid "Link"
+msgstr ""
+
+#: modules/elementor/widgets/team-member.php:135
+#: modules/js_composer/config/map.php:6156
+msgid "Add link to the team member. Leave blank if there aren't any"
+msgstr ""
+
+#: modules/elementor/widgets/two-row-products.php:43
+#: modules/js_composer/config/map.php:5929
+msgid "Two Row Products"
+msgstr ""
+
+#: modules/elementor/widgets/two-row-products.php:149
+msgid "columns"
+msgstr ""
+
+#: modules/elementor/widgets/two-row-products.php:150
+msgid "Enter the products columns to display"
+msgstr ""
+
+#: modules/elementor/widgets/two-row-products.php:160
+msgid "Enter the products columns wide to display"
+msgstr ""
+
+#: modules/elementor/widgets/vertical-nav-menu.php:43
+msgid "Vertical Nav menu"
+msgstr ""
+
+#: modules/elementor/widgets/vertical-nav-menu.php:116
+msgid "Enter the action text."
+msgstr ""
+
+#: modules/elementor/widgets/vertical-nav-menu.php:126
+msgid "Enter the action link."
+msgstr ""
+
+#: modules/js_composer/config/map.php:53
+msgid "Extra Class for Banner"
+msgstr ""
+
+#: modules/js_composer/config/map.php:63
+#: modules/js_composer/config/map.php:6163
+msgid "Add your extra classes here."
+msgstr ""
+
+#: modules/js_composer/config/map.php:73
+msgid "Add Ad Block to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:84 modules/js_composer/config/map.php:131
+msgid "Caption Text"
+msgstr ""
+
+#: modules/js_composer/config/map.php:106
+msgid "Slider with Ads Block"
+msgstr ""
+
+#: modules/js_composer/config/map.php:108
+msgid "Add Slider with Ads Block to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:114
+msgid "Slider"
+msgstr ""
+
+#: modules/js_composer/config/map.php:121
+msgid "Ads"
+msgstr ""
+
+#: modules/js_composer/config/map.php:148
+#: modules/js_composer/config/map.php:466
+#: modules/js_composer/config/map.php:1836
+#: modules/js_composer/config/map.php:2050
+#: modules/js_composer/config/map.php:2299
+#: modules/js_composer/config/map.php:2439
+#: modules/js_composer/config/map.php:2747
+#: modules/js_composer/config/map.php:3129
+#: modules/js_composer/config/map.php:5301
+#: modules/js_composer/config/map.php:5849
+#: modules/js_composer/config/map.php:5915
+#: modules/js_composer/config/map.php:6492
+#: modules/js_composer/config/map.php:6557
+#: modules/js_composer/config/map.php:6854
+msgid "Enter class name"
+msgstr ""
+
+#: modules/js_composer/config/map.php:161
+msgid "Products carousel Banner Vertical Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:163
+msgid "Add Products carousel with Banner Vertical Tabs to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:181
+msgid "Enter tab title."
+msgstr ""
+
+#: modules/js_composer/config/map.php:188
+msgid "Enter your banner title here."
+msgstr ""
+
+#: modules/js_composer/config/map.php:193
+msgid "Tab Sub Title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:195
+msgid "Enter your banner subtitle here."
+msgstr ""
+
+#: modules/js_composer/config/map.php:202
+msgid "Enter your banner action text here."
+msgstr ""
+
+#: modules/js_composer/config/map.php:209
+msgid "Enter your banner action link here."
+msgstr ""
+
+#: modules/js_composer/config/map.php:231
+#: modules/js_composer/config/map.php:272
+#: modules/js_composer/config/map.php:591
+#: modules/js_composer/config/map.php:629
+#: modules/js_composer/config/map.php:667
+#: modules/js_composer/config/map.php:738
+#: modules/js_composer/config/map.php:792
+#: modules/js_composer/config/map.php:869
+#: modules/js_composer/config/map.php:907
+#: modules/js_composer/config/map.php:945
+#: modules/js_composer/config/map.php:991
+#: modules/js_composer/config/map.php:1059
+#: modules/js_composer/config/map.php:1084
+#: modules/js_composer/config/map.php:1124
+#: modules/js_composer/config/map.php:1277
+#: modules/js_composer/config/map.php:1310
+#: modules/js_composer/config/map.php:1446
+#: modules/js_composer/config/map.php:1486
+#: modules/js_composer/config/map.php:1694
+#: modules/js_composer/config/map.php:1734
+#: modules/js_composer/config/map.php:1908
+#: modules/js_composer/config/map.php:1948
+#: modules/js_composer/config/map.php:2549
+#: modules/js_composer/config/map.php:2582
+#: modules/js_composer/config/map.php:2781
+#: modules/js_composer/config/map.php:2830
+#: modules/js_composer/config/map.php:2921
+#: modules/js_composer/config/map.php:2954
+#: modules/js_composer/config/map.php:3163
+#: modules/js_composer/config/map.php:3196
+#: modules/js_composer/config/map.php:3322
+#: modules/js_composer/config/map.php:3355
+#: modules/js_composer/config/map.php:3481
+#: modules/js_composer/config/map.php:3514
+#: modules/js_composer/config/map.php:3569
+#: modules/js_composer/config/map.php:3584
+#: modules/js_composer/config/map.php:3738
+#: modules/js_composer/config/map.php:3792
+#: modules/js_composer/config/map.php:4215
+#: modules/js_composer/config/map.php:4256
+#: modules/js_composer/config/map.php:4475
+#: modules/js_composer/config/map.php:4516
+#: modules/js_composer/config/map.php:4686
+#: modules/js_composer/config/map.php:4726
+#: modules/js_composer/config/map.php:4871
+#: modules/js_composer/config/map.php:4911
+#: modules/js_composer/config/map.php:5104
+#: modules/js_composer/config/map.php:5157
+#: modules/js_composer/config/map.php:5482
+#: modules/js_composer/config/map.php:5525
+#: modules/js_composer/config/map.php:5743
+#: modules/js_composer/config/map.php:5797
+#: modules/js_composer/config/map.php:5962
+#: modules/js_composer/config/map.php:6018
+#: modules/js_composer/config/map.php:6330
+#: modules/js_composer/config/map.php:6370
+msgid "Select"
+msgstr ""
+
+#: modules/js_composer/config/map.php:282
+#: modules/js_composer/config/map.php:802
+#: modules/js_composer/config/map.php:1134
+#: modules/js_composer/config/map.php:1320
+#: modules/js_composer/config/map.php:1496
+#: modules/js_composer/config/map.php:1744
+#: modules/js_composer/config/map.php:1958
+#: modules/js_composer/config/map.php:2592
+#: modules/js_composer/config/map.php:2840
+#: modules/js_composer/config/map.php:2964
+#: modules/js_composer/config/map.php:3206
+#: modules/js_composer/config/map.php:3365
+#: modules/js_composer/config/map.php:3524
+#: modules/js_composer/config/map.php:3802
+#: modules/js_composer/config/map.php:4266
+#: modules/js_composer/config/map.php:4526
+#: modules/js_composer/config/map.php:4736
+#: modules/js_composer/config/map.php:4921
+#: modules/js_composer/config/map.php:5167
+#: modules/js_composer/config/map.php:5535
+#: modules/js_composer/config/map.php:5807
+#: modules/js_composer/config/map.php:6028
+#: modules/js_composer/config/map.php:6380
+msgid "Enter IDs/SKUs spearate by comma(,)."
+msgstr ""
+
+#: modules/js_composer/config/map.php:289
+#: modules/js_composer/config/map.php:809
+#: modules/js_composer/config/map.php:1141
+#: modules/js_composer/config/map.php:1327
+#: modules/js_composer/config/map.php:1503
+#: modules/js_composer/config/map.php:1751
+#: modules/js_composer/config/map.php:1965
+#: modules/js_composer/config/map.php:2599
+#: modules/js_composer/config/map.php:2847
+#: modules/js_composer/config/map.php:2971
+#: modules/js_composer/config/map.php:3213
+#: modules/js_composer/config/map.php:3372
+#: modules/js_composer/config/map.php:3531
+#: modules/js_composer/config/map.php:3809
+#: modules/js_composer/config/map.php:4273
+#: modules/js_composer/config/map.php:4533
+#: modules/js_composer/config/map.php:4743
+#: modules/js_composer/config/map.php:4928
+#: modules/js_composer/config/map.php:5174
+#: modules/js_composer/config/map.php:5250
+#: modules/js_composer/config/map.php:5542
+#: modules/js_composer/config/map.php:5814
+#: modules/js_composer/config/map.php:6035
+#: modules/js_composer/config/map.php:6387
+msgid "Enter slug spearate by comma(,)."
+msgstr ""
+
+#: modules/js_composer/config/map.php:311
+#: modules/js_composer/config/map.php:831
+#: modules/js_composer/config/map.php:1163
+#: modules/js_composer/config/map.php:1349
+#: modules/js_composer/config/map.php:1525
+#: modules/js_composer/config/map.php:1773
+#: modules/js_composer/config/map.php:1987
+#: modules/js_composer/config/map.php:2621
+#: modules/js_composer/config/map.php:2869
+#: modules/js_composer/config/map.php:2993
+#: modules/js_composer/config/map.php:3235
+#: modules/js_composer/config/map.php:3394
+#: modules/js_composer/config/map.php:3553
+#: modules/js_composer/config/map.php:3831
+#: modules/js_composer/config/map.php:4295
+#: modules/js_composer/config/map.php:4555
+#: modules/js_composer/config/map.php:4765
+#: modules/js_composer/config/map.php:4950
+#: modules/js_composer/config/map.php:5196
+#: modules/js_composer/config/map.php:5564
+#: modules/js_composer/config/map.php:5836
+#: modules/js_composer/config/map.php:6057
+#: modules/js_composer/config/map.php:6409
+msgid "Enter term slug spearate by comma(,)."
+msgstr ""
+
+#: modules/js_composer/config/map.php:318
+#: modules/js_composer/config/map.php:838
+#: modules/js_composer/config/map.php:1170
+#: modules/js_composer/config/map.php:1356
+#: modules/js_composer/config/map.php:1532
+#: modules/js_composer/config/map.php:1780
+#: modules/js_composer/config/map.php:1994
+#: modules/js_composer/config/map.php:2628
+#: modules/js_composer/config/map.php:2876
+#: modules/js_composer/config/map.php:3000
+#: modules/js_composer/config/map.php:3242
+#: modules/js_composer/config/map.php:3401
+#: modules/js_composer/config/map.php:3560
+#: modules/js_composer/config/map.php:3838
+#: modules/js_composer/config/map.php:4302
+#: modules/js_composer/config/map.php:4562
+#: modules/js_composer/config/map.php:4772
+#: modules/js_composer/config/map.php:4957
+#: modules/js_composer/config/map.php:5203
+#: modules/js_composer/config/map.php:5571
+#: modules/js_composer/config/map.php:5843
+#: modules/js_composer/config/map.php:6064
+#: modules/js_composer/config/map.php:6416
+msgid "Operator to compare terms. Possible values are 'IN', 'NOT IN', 'AND'."
+msgstr ""
+
+#: modules/js_composer/config/map.php:369
+#: modules/js_composer/config/map.php:378
+#: modules/js_composer/config/map.php:387
+#: modules/js_composer/config/map.php:396
+#: modules/js_composer/config/map.php:1038
+#: modules/js_composer/config/map.php:1188
+#: modules/js_composer/config/map.php:1243
+#: modules/js_composer/config/map.php:1252
+#: modules/js_composer/config/map.php:1261
+#: modules/js_composer/config/map.php:1365
+#: modules/js_composer/config/map.php:1382
+#: modules/js_composer/config/map.php:1541
+#: modules/js_composer/config/map.php:1599
+#: modules/js_composer/config/map.php:1608
+#: modules/js_composer/config/map.php:1617
+#: modules/js_composer/config/map.php:1647
+#: modules/js_composer/config/map.php:1803
+#: modules/js_composer/config/map.php:1812
+#: modules/js_composer/config/map.php:1821
+#: modules/js_composer/config/map.php:1830
+#: modules/js_composer/config/map.php:1871
+#: modules/js_composer/config/map.php:2017
+#: modules/js_composer/config/map.php:2026
+#: modules/js_composer/config/map.php:2035
+#: modules/js_composer/config/map.php:2044
+#: modules/js_composer/config/map.php:2092
+#: modules/js_composer/config/map.php:2124
+#: modules/js_composer/config/map.php:2133
+#: modules/js_composer/config/map.php:2142
+#: modules/js_composer/config/map.php:2182
+#: modules/js_composer/config/map.php:2259
+#: modules/js_composer/config/map.php:2343
+#: modules/js_composer/config/map.php:2416
+#: modules/js_composer/config/map.php:2425
+#: modules/js_composer/config/map.php:2434
+#: modules/js_composer/config/map.php:2663
+#: modules/js_composer/config/map.php:2672
+#: modules/js_composer/config/map.php:2712
+#: modules/js_composer/config/map.php:3059
+#: modules/js_composer/config/map.php:3083
+#: modules/js_composer/config/map.php:3259
+#: modules/js_composer/config/map.php:3418
+#: modules/js_composer/config/map.php:3611
+#: modules/js_composer/config/map.php:3628
+#: modules/js_composer/config/map.php:3675
+#: modules/js_composer/config/map.php:3855
+#: modules/js_composer/config/map.php:3872
+#: modules/js_composer/config/map.php:3919
+#: modules/js_composer/config/map.php:4107
+#: modules/js_composer/config/map.php:4116
+#: modules/js_composer/config/map.php:4125
+#: modules/js_composer/config/map.php:4134
+#: modules/js_composer/config/map.php:4143
+#: modules/js_composer/config/map.php:4152
+#: modules/js_composer/config/map.php:4182
+#: modules/js_composer/config/map.php:4312
+#: modules/js_composer/config/map.php:4336
+#: modules/js_composer/config/map.php:4391
+#: modules/js_composer/config/map.php:4400
+#: modules/js_composer/config/map.php:4409
+#: modules/js_composer/config/map.php:4418
+#: modules/js_composer/config/map.php:4572
+#: modules/js_composer/config/map.php:4596
+#: modules/js_composer/config/map.php:4790
+#: modules/js_composer/config/map.php:4799
+#: modules/js_composer/config/map.php:4808
+#: modules/js_composer/config/map.php:4841
+#: modules/js_composer/config/map.php:4973
+#: modules/js_composer/config/map.php:4982
+#: modules/js_composer/config/map.php:4991
+#: modules/js_composer/config/map.php:5021
+#: modules/js_composer/config/map.php:5282
+#: modules/js_composer/config/map.php:5406
+#: modules/js_composer/config/map.php:5430
+#: modules/js_composer/config/map.php:5500
+#: modules/js_composer/config/map.php:5615
+#: modules/js_composer/config/map.php:5624
+#: modules/js_composer/config/map.php:5633
+#: modules/js_composer/config/map.php:5667
+#: modules/js_composer/config/map.php:5691
+#: modules/js_composer/config/map.php:5891
+#: modules/js_composer/config/map.php:5900
+#: modules/js_composer/config/map.php:5909
+#: modules/js_composer/config/map.php:6307
+#: modules/js_composer/config/map.php:6456
+#: modules/js_composer/config/map.php:6519
+#: modules/js_composer/config/map.php:6608
+#: modules/js_composer/config/map.php:6617
+#: modules/js_composer/config/map.php:6626
+#: modules/js_composer/config/map.php:6635
+#: modules/js_composer/config/map.php:6688
+#: modules/js_composer/config/map.php:6712
+#: modules/js_composer/config/map.php:6751
+#: modules/js_composer/config/map.php:6768
+#: modules/js_composer/config/map.php:6807
+#: modules/js_composer/config/map.php:6830
+#: modules/js_composer/config/map.php:6839
+#: modules/js_composer/config/map.php:6848
+msgid "Allow"
+msgstr ""
+
+#: modules/js_composer/config/map.php:408
+msgid "Ads with Banners Block"
+msgstr ""
+
+#: modules/js_composer/config/map.php:410
+msgid "Add Ads with Banner Block to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:417
+msgid "Ads with Banner"
+msgstr ""
+
+#: modules/js_composer/config/map.php:459
+msgid "Is End"
+msgstr ""
+
+#: modules/js_composer/config/map.php:481
+msgid "Add Feature Block to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:487
+msgid "Icon 1"
+msgstr ""
+
+#: modules/js_composer/config/map.php:492
+msgid "Text 1"
+msgstr ""
+
+#: modules/js_composer/config/map.php:497
+msgid "Icon 2"
+msgstr ""
+
+#: modules/js_composer/config/map.php:502
+msgid "Text 2"
+msgstr ""
+
+#: modules/js_composer/config/map.php:507
+msgid "Icon 3"
+msgstr ""
+
+#: modules/js_composer/config/map.php:512
+msgid "Text 3"
+msgstr ""
+
+#: modules/js_composer/config/map.php:517
+msgid "Icon 4"
+msgstr ""
+
+#: modules/js_composer/config/map.php:522
+msgid "Text 4"
+msgstr ""
+
+#: modules/js_composer/config/map.php:527
+msgid "Icon 5"
+msgstr ""
+
+#: modules/js_composer/config/map.php:532
+msgid "Text 5"
+msgstr ""
+
+#: modules/js_composer/config/map.php:546
+msgid "Add Jumbotron to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:576
+#: modules/js_composer/config/map.php:715
+msgid "Add Product Tabs to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:577
+#: modules/js_composer/config/map.php:855
+msgid "Electro Deprecated Elements"
+msgstr ""
+
+#: modules/js_composer/config/map.php:582
+#: modules/js_composer/config/map.php:860
+msgid "Tab #1 title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:588
+#: modules/js_composer/config/map.php:866
+msgid "Tab #1 Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:604
+#: modules/js_composer/config/map.php:642
+#: modules/js_composer/config/map.php:680
+#: modules/js_composer/config/map.php:882
+#: modules/js_composer/config/map.php:920
+#: modules/js_composer/config/map.php:958
+msgid "Enter Product IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:605
+#: modules/js_composer/config/map.php:643
+#: modules/js_composer/config/map.php:681
+#: modules/js_composer/config/map.php:883
+#: modules/js_composer/config/map.php:921
+#: modules/js_composer/config/map.php:959
+msgid "This will only for Products Shortcode"
+msgstr ""
+
+#: modules/js_composer/config/map.php:612
+#: modules/js_composer/config/map.php:650
+#: modules/js_composer/config/map.php:688
+#: modules/js_composer/config/map.php:890
+#: modules/js_composer/config/map.php:928
+#: modules/js_composer/config/map.php:966
+msgid "Enter Category Slug"
+msgstr ""
+
+#: modules/js_composer/config/map.php:613
+#: modules/js_composer/config/map.php:651
+#: modules/js_composer/config/map.php:689
+#: modules/js_composer/config/map.php:891
+#: modules/js_composer/config/map.php:929
+#: modules/js_composer/config/map.php:967
+msgid "This will only for Product Category Shortcode"
+msgstr ""
+
+#: modules/js_composer/config/map.php:620
+#: modules/js_composer/config/map.php:898
+msgid "Tab #2 title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:626
+#: modules/js_composer/config/map.php:904
+msgid "Tab #2 Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:658
+#: modules/js_composer/config/map.php:936
+msgid "Tab #3 title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:664
+#: modules/js_composer/config/map.php:942
+msgid "Tab #3 Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:696
+#: modules/js_composer/config/map.php:974
+msgid "Enter Product Items"
+msgstr ""
+
+#: modules/js_composer/config/map.php:703
+#: modules/js_composer/config/map.php:981
+msgid "Enter Product Columns"
+msgstr ""
+
+#: modules/js_composer/config/map.php:852
+#: modules/js_composer/config/map.php:1047
+msgid "Product Carousel Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:854
+#: modules/js_composer/config/map.php:1049
+#: modules/js_composer/config/map.php:4642
+msgid "Add Product Carousel Tabs to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:988
+#: modules/js_composer/config/map.php:1056
+msgid "Header Align"
+msgstr ""
+
+#: modules/js_composer/config/map.php:992
+#: modules/js_composer/config/map.php:1060
+msgid "Center"
+msgstr ""
+
+#: modules/js_composer/config/map.php:993
+#: modules/js_composer/config/map.php:1061
+msgid "Left"
+msgstr ""
+
+#: modules/js_composer/config/map.php:994
+#: modules/js_composer/config/map.php:1062
+msgid "Right"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1200
+msgid "Electro Products Cards Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1202
+msgid "Add products cards carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1241
+msgid "Show Carousel Navigation"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1425
+msgid "Electro Products Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1427
+#: modules/js_composer/config/map.php:1661
+msgid "Add products carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:1659
+msgid "Electro Products Carousel 1"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1850
+msgid "Electro Products Carousel With Timer"
+msgstr ""
+
+#: modules/js_composer/config/map.php:1852
+msgid "Add products carousel with timer to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2064
+msgid "Electro Brands Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2066
+msgid "Add brands carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2154
+msgid "Product List Categories"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2156
+#: modules/js_composer/config/map.php:2226
+#: modules/js_composer/config/map.php:2686
+#: modules/js_composer/config/map.php:2763
+#: modules/js_composer/config/map.php:2903
+#: modules/js_composer/config/map.php:3027
+#: modules/js_composer/config/map.php:6430
+#: modules/js_composer/config/map.php:6507
+msgid "Add product categories to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2312
+msgid "Product Category Icons Carousel Block"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2314
+msgid "Add product category icons carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2322
+msgid "Style"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2324
+msgid "Style v1"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2325
+msgid "Style v2"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2452
+msgid "Product Carousel Tabs with Deal"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2454
+msgid "Add Product Carousel Tabs with deal to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:2482
+msgid "Enter Deal title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:2492
+#: modules/js_composer/config/map.php:3993
+#: modules/js_composer/config/map.php:4056
+#: modules/js_composer/config/map.php:5052
+msgid "Show Savings"
+msgstr ""
+
+#: modules/js_composer/config/map.php:3025
+msgid "Product Catgories List With Header Image "
+msgstr ""
+
+#: modules/js_composer/config/map.php:3042
+msgid "Enter Subtitle"
+msgstr ""
+
+#: modules/js_composer/config/map.php:3142
+msgid "Product 2-1-2 Grid"
+msgstr ""
+
+#: modules/js_composer/config/map.php:3144
+#: modules/js_composer/config/map.php:3303
+msgid "Add products to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:3301
+msgid "Product 6-1 Grid"
+msgstr ""
+
+#: modules/js_composer/config/map.php:3460
+msgid "Products 6-1 with Categories"
+msgstr ""
+
+#: modules/js_composer/config/map.php:3462
+#: modules/js_composer/config/map.php:4196
+msgid "Add products 6-1 with vertical categories to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:3588
+msgid "Only for Products Shortcode."
+msgstr ""
+
+#: modules/js_composer/config/map.php:3717
+msgid "Products with Categories and Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:3719
+msgid "Add products with vertical categories and image to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:3974
+msgid "Electro Onsale Product"
+msgstr ""
+
+#: modules/js_composer/config/map.php:3976
+msgid "Add onsale product to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:4036
+msgid "Electro Onsale Products Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:4038
+#: modules/js_composer/config/map.php:6572
+msgid "Add onsale products carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:4194
+msgid "Electro Products Carousel with Category Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:4430
+msgid "Electro Products List Block"
+msgstr ""
+
+#: modules/js_composer/config/map.php:4432
+msgid "Add Products list to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:4640
+msgid "Product Carousel Tabs 1"
+msgstr ""
+
+#: modules/js_composer/config/map.php:4820
+msgid "Electro Deal Products Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:4822
+msgid "Add deal products carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:5033
+msgid "Electro Deal and Products Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:5035
+msgid "Add deal and products tabs to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:5223
+#: modules/js_composer/config/map.php:5237
+msgid "List Categories Menus"
+msgstr ""
+
+#: modules/js_composer/config/map.php:5225
+msgid "Add List Categories Menus to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:5248
+msgid "Category Slug"
+msgstr ""
+
+#: modules/js_composer/config/map.php:5271
+msgid "Number of categories to display"
+msgstr ""
+
+#: modules/js_composer/config/map.php:5314
+msgid "Electro Nav Menu"
+msgstr ""
+
+#: modules/js_composer/config/map.php:5316
+msgid "Add a navigation menu to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:5344
+msgid "Recently Viewed Products Block"
+msgstr ""
+
+#: modules/js_composer/config/map.php:5346
+msgid "Add Recently Viewed Products Block to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:5384
+msgid "Products Carousel Category with Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:5386
+msgid "Add products carousel category with image to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:5497
+msgid "Enable Description"
+msgstr ""
+
+#: modules/js_composer/config/map.php:5498
+msgid "Show Description on the products."
+msgstr ""
+
+#: modules/js_composer/config/map.php:5645
+msgid "Products Category with Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:5647
+msgid "Add products category with image to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:5863
+msgid "Electro Recent Viewed Products Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:5865
+msgid "Add recent viewed products carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:5931
+msgid "Add two row products to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6076
+msgid "Electro Vertical Nav Menu"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6078
+msgid "Add a verical navigation menu to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6116
+msgid "Electro Team Member"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6118
+msgid "Add a team member profile to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6174
+msgid "Electro Terms"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6176
+msgid ""
+"Adds a shortcode for get_terms. Used to get terms including categories, "
+"product categories, etc."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6184
+msgid "Taxonomy"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6186
+msgid ""
+"Taxonomy name, or comma-separated taxonomies, to which results should be "
+"limited."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6194
+msgid ""
+"Field(s) to order terms by. Accepts term fields ('name', 'slug', "
+"'term_group', 'term_id', 'id', 'description'). Defaults to 'name'."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6201
+msgid ""
+"Whether to order terms in ascending or descending order. Accepts 'ASC' "
+"(ascending) or 'DESC' (descending). Default 'ASC'."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6206
+msgid "Hide Empty ?"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6208
+msgid "Whether to hide terms not assigned to any posts. Accepts 1 or 0. Default 0."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6213
+msgid "Include IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6215
+msgid "Comma-separated string of term ids to include."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6219
+msgid "Exclude IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6221
+msgid ""
+"Comma-separated string of term ids to exclude. If Include is non-empty, "
+"Exclude is ignored."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6225
+msgid "Number"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6227
+msgid ""
+"Maximum number of terms to return. Accepts 0 (all) or any positive number. "
+"Default 0 (all)."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6232
+msgid "Offset"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6234
+msgid "The number by which to offset the terms query."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6239
+msgid "Name"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6241
+msgid "Name or comma-separated string of names to return term(s) for."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6245
+msgid "Slug"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6247
+msgid "Slug or comma-separated string of slugs to return term(s) for."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6251
+msgid "Hierarchical"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6253
+msgid ""
+"Whether to include terms that have non-empty descendants. Accepts 1 (true) "
+"or 0 (false). Default 1 (true)"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6258
+msgid "Child Of"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6260
+msgid ""
+"Term ID to retrieve child terms of. If multiple taxonomies are passed, "
+"child_of is ignored. Default 0."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6265
+msgid "Include \"Child Of\" term ?"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6267
+msgid ""
+"Include \"Child Of\" term in the terms list. Accepts 1 (yes) or 0 (no). "
+"Default 1."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6272
+msgid "Parent"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6274
+msgid "Parent term ID to retrieve direct-child terms of."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6288
+msgid "Add deal product with featured to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6428
+msgid "Product Category Tags"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6438
+msgid "Enter section title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6505
+msgid "Product Categories 1-6"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6542
+msgid "Enter slug spearate by comma(,). Maximum of 7."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6550
+msgid "Enter ids spearate by comma(,). Maximum of 7."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6570
+msgid "Electro Onsale Products Carousel 2"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6615
+msgid "Show Navigation"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6647
+msgid "Banners 1-6 Block"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6649
+msgid "Add banners to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:6663
+msgid "Product Categories With Banner Carousel"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6672
+msgid "Enter Section Title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6680
+msgid "Carousel Elements"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6686
+msgid "Enable Categories 1"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6694
+msgid "Categories List 1: limit"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6701
+msgid "Categories List 1: Child limit"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6709
+msgid "Categories List 1: Have no products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6718
+msgid "Categories List 1: Order by"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6726
+msgid "Categories List 1: Order"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6734
+msgid "Categories List 1: Include ID's"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6741
+msgid "Categories List 1: Include slug's"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6749
+msgid "Enable Categories 2"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6757
+msgid "Categories List 2: limit"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6765
+msgid "Categories List 2: Have no products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6774
+msgid "Categories List 2: Order by"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6782
+msgid "Categories List 2: Order"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6790
+msgid "Categories List 2: Include ID's"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6797
+msgid "Categories List 2: Include slug's"
+msgstr ""
+
+#: modules/js_composer/config/map.php:6805
+msgid "Enable Banner ?"
+msgstr ""
+
+#: modules/mas-static-content-migrator/index.php:69
+msgid "MAS Static Content Migrate"
+msgstr ""
+
+#: modules/mas-static-content-migrator/index.php:69
+msgid "This process will move all posts from Static Blocks to MAS Static Contents."
+msgstr ""
+
+#: modules/mas-static-content-migrator/index.php:70
+msgid "Run the updater"
+msgstr ""
+
+#: modules/mas-static-content-migrator/index.php:74
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: modules/mas-static-content-migrator/index.php:81
+msgid "MAS Static Content posts migrated."
+msgstr ""
+
+#: modules/mas-static-content-migrator/index.php:83
+msgid "MAS Static Content posts migration failed. Please try again."
+msgstr ""
+
+#: modules/post-formats/post-formats.php:70
+msgid "Loading..."
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:6
+msgid "Audio Options"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:10
+msgid "Enter the paths to your audio files in the fields below"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:17
+msgid "MP3 File URL"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:18
+msgid "URL to an .mp3 file"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:28
+msgid "OGA File URL"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:29
+msgid "URL to an .oga or .ogg file"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:39
+msgid "Embedded Audio"
+msgstr ""
+
+#: modules/post-formats/views/format-audio.php:40
+msgid "Add embedded audio formats."
+msgstr ""
+
+#: modules/post-formats/views/format-gallery.php:25
+msgid "Edit Gallery"
+msgstr ""
+
+#: modules/post-formats/views/format-gallery.php:25
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: modules/post-formats/views/format-link.php:5
+#: modules/post-formats/views/format-link.php:12
+msgid "Link URL"
+msgstr ""
+
+#: modules/post-formats/views/format-link.php:13
+msgid "The URL of your link."
+msgstr ""
+
+#: modules/post-formats/views/format-quote.php:5
+#: modules/post-formats/views/format-quote.php:14
+msgid "Quote"
+msgstr ""
+
+#: modules/post-formats/views/format-quote.php:15
+msgid "The text being quoted."
+msgstr ""
+
+#: modules/post-formats/views/format-quote.php:25
+msgid "Source Name"
+msgstr ""
+
+#: modules/post-formats/views/format-quote.php:26
+msgid "The person being cited."
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:5
+msgid "Video Options"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:7
+msgid ""
+"For HTML5 video support and Flash fallback please include an M4V file. "
+"Include an OGV file optionally to increase cross browser support."
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:13
+msgid "M4V File URL"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:14
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:24
+msgid "OGV File URL"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:25
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:35
+msgid "WEBM File URL"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:36
+msgid "The URL to the .webm video file"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:46
+msgid "Video Poster"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:47
+msgid "A preivew image."
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:57
+msgid "Embedded Code"
+msgstr ""
+
+#: modules/post-formats/views/format-video.php:58
+msgid "If not using self hosted video you can include embeded code here."
+msgstr ""
+
+#: modules/post-formats/views/tabs.php:9
+msgid "Standard"
+msgstr ""
+
+#: modules/post-types/static-block.php:51
+msgid "Add New Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:52
+msgid "Edit Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:53
+msgid "New Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:54
+msgid "Static Blocks"
+msgstr ""
+
+#: modules/post-types/static-block.php:55
+msgid "View Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:56
+msgid "Search"
+msgstr ""
+
+#: modules/post-types/static-block.php:57
+msgid "No blocks found"
+msgstr ""
+
+#: modules/post-types/static-block.php:58
+msgid "No blocks found in Trash"
+msgstr ""
+
+#: modules/post-types/static-block.php:202
+msgid "Content Options"
+msgstr ""
+
+#: modules/post-types/static-block.php:208
+msgid "Content Filters"
+msgstr ""
+
+#: modules/post-types/static-block.php:209
+msgid "Apply all WP content filters? This will include plugin added filters."
+msgstr ""
+
+#: modules/post-types/static-block.php:214
+msgid "Defaults (recommended)"
+msgstr ""
+
+#: modules/post-types/static-block.php:215
+msgid "All Content Filters"
+msgstr ""
+
+#: modules/post-types/static-block.php:219
+msgid "Auto Paragraphs"
+msgstr ""
+
+#: modules/post-types/static-block.php:220
+msgid ""
+"Add &lt;p&gt; and &lt;br&gt; tags automatically. (disabling may fix layout "
+"issues)"
+msgstr ""
+
+#: modules/post-types/static-block.php:225
+msgid "On"
+msgstr ""
+
+#: modules/post-types/static-block.php:226
+msgid "Off"
+msgstr ""
+
+#: modules/theme-shortcodes/theme-shortcodes.php:19
+msgid "You need to enable YITH Compare plugin for product comparison to work"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Electro Extensions"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://demo2.chethemes.com/electro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This selection of extensions compliment our lean and mean theme for "
+"WooCommerce, Electro. Please note: they don’t work with any WordPress "
+"theme, just Electro."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MadrasThemes"
+msgstr ""
+
+#: modules/post-types/static-block.php:48
+msgctxt "post type general name"
+msgid "Static Content Blocks"
+msgstr ""
+
+#: modules/post-types/static-block.php:49
+msgctxt "post type singular name"
+msgid "Static Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:50
+msgctxt "block"
+msgid "Add New"
+msgstr ""

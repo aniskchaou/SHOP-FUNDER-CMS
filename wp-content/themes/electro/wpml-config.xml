@@ -1,0 +1,42 @@
+<wpml-config>
+    <admin-texts>
+        <key name="electro_options">
+            <key name="footer_newsletter_title" />
+            <key name="footer_newsletter_marketing_text" />
+            <key name="footer_newsletter_signup_form" />
+            <key name="site_footer_logo" />
+            <key name="footer_call_us_text" />
+            <key name="footer_call_us_icon" />
+            <key name="footer_call_us_number" />
+            <key name="footer_address_title" />
+            <key name="footer_address" />
+            <key name="footer_credit" />
+            <key name="footer_credit_icons" />
+            <key name="sidebar_margin_top" />
+            <key name="header_icon_tooltip_position" />
+            <key name="site_header_logo" />
+            <key name="header_vertical_menu_title" />
+            <key name="header_vertical_menu_icon" />
+            <key name="header_departments_menu_title" />
+            <key name="header_v5_departments_menu_title" />
+            <key name="header_v6_departments_menu_title" />
+            <key name="header_navbar_search_placeholder" />
+            <key name="header_navbar_search_dropdown_text" />
+            <key name="header_support_number" />
+            <key name="header_support_email" />
+            <key name="header_cart_icon" />
+            <key name="header_user_account_icon" />
+            <key name="mobile_frontpage_id" />
+            <key name="handheld_header_logo" />
+            <key name="handheld_footer_logo" />
+            <key name="product_brand_taxonomy" />
+            <key name="compare_page_id" />
+            <key name="shop_jumbotron_id" />
+            <key name="shop_jumbotron_bottom_id" />
+            <key name="myaccount_before_login_text" />
+            <key name="myaccount_before_register_text" />
+            <key name="myaccount_register_benefits_title" />
+            <key name="myaccount_register_benefits" />
+        </key>
+    </admin-texts>
+</wpml-config>

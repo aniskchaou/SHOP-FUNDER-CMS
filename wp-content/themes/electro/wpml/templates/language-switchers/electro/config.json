@@ -1,0 +1,9 @@
+{
+	"name": "Electro",
+	"version": "1.0.0",
+	"for": ["menus"],
+	"settings": {
+		"display_names_in_native_lang": 1,
+		"display_names_in_current_lang": 1
+	}
+}
