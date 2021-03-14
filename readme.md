@@ -1,8 +1,10 @@
+# Shop Funder
+
 <p align="center">
 <img src="logo.png"/>
 
 
-# Shop Funder
+
 </p>
 Shop funder is eCommerce website that allows consumers to directly buy goods or services from a seller over the Internet using a web browser or a mobile app. Consumers find a product of interest by visiting the website of the retailer directly or by searching among alternative vendors using a shopping search engine, which displays the same product's availability and pricing at different e-retailers. 
 
@@ -52,4 +54,4 @@ Project is: _finished_
 contact@delta-dev-software.com
 
 ## License
-<a href="license.txt">GNU General Public License v3.0</a>
+<a href="license.txt">MIT License</a>
