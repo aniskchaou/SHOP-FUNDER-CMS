@@ -1,5 +1,5 @@
 <p align="center">
-![enter image description here](logo.png)
+<img src="logo.png"/>
 </p>
 
 # Shop Funder
@@ -23,7 +23,7 @@ Shop funder facilitate online transactions of goods and services through means o
 
 ## Screenshots
 <p align="center">
-![Example screenshot](./img/screenshot.png)
+<img src="screenshot.png"/>
 <p>
 
 ## Technologies
